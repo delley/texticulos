@@ -30,4 +30,5 @@ Mais informações podem ser obtidas no [Play 2.4 Migration Guide](https://playf
 [Play Framework – alta produtividade em Java](http://blog.erkobridee.com/2011/12/05/play-framework-alta-produtividade-em-java/)
 
 Vídeos no YouTube:
+
 [Play! Framwork - Demonstração prática detalhada](https://www.youtube.com/watch?v=prAdy2rIzTU)

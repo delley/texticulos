@@ -2,7 +2,7 @@
 O `Play` é um framework para desenvolvimento web. Foi inicialmente escrito em `Java`, e posteriormente, reescrito em `Scala`. Apesar de ser um framework web, o `Play` não segue a especificação `Java EE`, ou seja, não usa a API Servlet, que é comumente usada por outros frameworks web Java. Outro ponto que merece destaque, é fato no `Play` usar internamente o [Netty](https://netty.io/) como servidor HTTP.
 
 ### Notas
-A partir da versão 2.4, o Play adotou o Guice para forncer Injeção de Dependências. Em decorrência disso, ocorreram algumas mudanças como as rotas são geradas. Até a versão 2.4, o padrão era usar o gerador de rotas estáticas. A partir da versão 2.5, o padrão é o gerador de rotas injetadas, ou seja, os métodos dos controles não precisam mais serem `static`.
+A partir da versão 2.4, o Play adotou o Guice para forncer Injeção de Dependências. Em decorrência disso, ocorreram algumas mudanças na forma como as rotas são geradas. Até a versão 2.4, o padrão era usar o gerador de rotas estáticas. A partir da versão 2.5, o padrão é o gerador de rotas injetadas, ou seja, os métodos dos controles não precisam mais serem `static`.
 
 Outra mudança siginificativa foi a troca dos controles estáticos, padrão até a versão 2.4, por injeção de dependência, padrão a partir da versão 2.5.   
 

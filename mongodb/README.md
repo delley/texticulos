@@ -30,7 +30,7 @@ Para seguir com a instalação, execute o seguinte comando:
 sudo yum install mongodb-org
 ```
 
-Quando solicitado, pressione `y` para confirmar a instalação e depois para comfirmar a chave GPG.
+Quando solicitado, pressione `y` para confirmar a instalação e depois para confirmar a chave GPG.
 
 ## Comandos básicos
 

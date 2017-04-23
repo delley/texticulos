@@ -3,7 +3,7 @@ Apenas alguns links interessantes.
 
 ## Repositórios do Git
 
-[Rafael 'Vicio' Augusto](https://github.com/rafaelvicio)
+* [Rafael 'Vicio' Augusto](https://github.com/rafaelvicio)
 
 ## Python
 
@@ -23,3 +23,7 @@ Apenas alguns links interessantes.
 
 * [Spark Tutoriais](https://sparktutorials.github.io/)
 * [Blog Caelum - Introdução aos microservices com Spark: retorno de dados dos correios](http://blog.caelum.com.br/introducao-aos-microservices-com-spark-retorno-de-dados-dos-correios/)
+
+### Wildfly
+
+* [Using try-with-resources to close database connections](http://www.mastertheboss.com/jboss-server/jboss-datasource/using-try-with-resources-to-close-database-connections)

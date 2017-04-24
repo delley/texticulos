@@ -42,3 +42,7 @@ Apenas alguns links interessantes.
 * [MongoDB Java Driver 3.0 - Filters](http://mongodb.github.io/mongo-java-driver/3.0/builders/filters/)
 * [MongoDB Java](https://mongodbwise.wordpress.com/2014/05/20/mongodb-java/)
 * [NoSQL com MongoDB e Persistência em Java](http://www.mballem.com/post/nosql-com-mongodb-e-persistencia-em-java/)
+
+### FreeMarker
+
+* [FreeMarker tutorial](http://zetcode.com/java/freemarker/)

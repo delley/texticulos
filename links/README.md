@@ -46,3 +46,20 @@ Apenas alguns links interessantes.
 ### FreeMarker
 
 * [ZetCode - FreeMarker tutorial](http://zetcode.com/java/freemarker/)
+
+## Padrões de Integração Corporativa (Enterprise Integration Patterns - EIP)
+
+* [Devmedia - Apache Camel: Um guia completo - Parte 1 e 2)](http://www.devmedia.com.br/apache-camel-um-guia-completo/37389)
+* [Devmedia - Apache Camel: Um guia completo - Parte 3](http://www.devmedia.com.br/apache-camel-um-guia-completo-parte-3/38105)
+* [Devmedia - Artigo Java Magazine 69 - Estratégias de Integração de Aplicações Java EE](http://www.devmedia.com.br/artigo-java-magazine-69-estrategias-de-integracao-de-aplicacoes-java-ee/12887)
+* [Matera Systems - Integração de sistemas com Spring Integration – parte 1](http://www.matera.com/br/2015/03/12/spring_integrator_parte-1/)
+* [Matera Systems - Integração de sistemas com Spring Integration – parte 2](http://www.matera.com/br/2015/09/25/integracao-de-sistemas-com-spring-integrator-parte-2/)
+* [Domine o Spring - Primeiros passos com o Spring Integration](https://domineospring.wordpress.com/2015/10/02/primeiros-passos-com-o-spring-integration/)
+* [Pedro Mendes - Microsserviços, por Martin Fowler e James Lewis](http://www.pedromendes.com.br/2016/01/02/microservicos/)
+* [Aulas - Enterprise Integration Patterns (EAI)](http://aulas.goldstep.com.br/tecnologia-da-informacao/enterprise-integration-patterns-eai/590/)
+* [Nelson Bassetto - Enterprise Integration Patterns](http://nelsonbassetto.com/blog/2013/02/enterprise-integration-patterns/)
+* [SlideShare - Enteprise Integration Patterns](https://pt.slideshare.net/kieras/enteprise-integration-patterns)
+
+## CSS
+
+* [Free Bulma Templates](https://dansup.github.io/bulma-templates/)

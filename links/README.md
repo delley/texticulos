@@ -49,7 +49,7 @@ Apenas alguns links interessantes.
 
 ## Padrões de Integração Corporativa (Enterprise Integration Patterns - EIP)
 
-* [Devmedia - Apache Camel: Um guia completo - Parte 1 e 2)](http://www.devmedia.com.br/apache-camel-um-guia-completo/37389)
+* [Devmedia - Apache Camel: Um guia completo - Parte 1 e 2](http://www.devmedia.com.br/apache-camel-um-guia-completo/37389)
 * [Devmedia - Apache Camel: Um guia completo - Parte 3](http://www.devmedia.com.br/apache-camel-um-guia-completo-parte-3/38105)
 * [Devmedia - Artigo Java Magazine 69 - Estratégias de Integração de Aplicações Java EE](http://www.devmedia.com.br/artigo-java-magazine-69-estrategias-de-integracao-de-aplicacoes-java-ee/12887)
 * [Matera Systems - Integração de sistemas com Spring Integration – parte 1](http://www.matera.com/br/2015/03/12/spring_integrator_parte-1/)

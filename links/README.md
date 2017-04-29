@@ -2,7 +2,7 @@
 Apenas alguns links interessantes:
 * [CSS](#css)
 * [Java](#java)
-* [Padrões de Integração Corporativa (Enterprise Integration Patterns - EIP)](#Padrões de Integração Corporativa (Enterprise Integration Patterns - EIP))
+* [Padrões de Integração Corporativa (Enterprise Integration Patterns - EIP)](#padrões-de-integração-corporativa-enterprise-integration-patterns---eip)
 
 ## CSS
 

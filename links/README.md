@@ -1,13 +1,11 @@
 # Links Interessantes
-Apenas alguns links interessantes.
+Apenas alguns links interessantes:
+* [CSS](#css)
+* []()
 
-## Repositórios do Git
+## CSS
 
-* [Rafael 'Vicio' Augusto](https://github.com/rafaelvicio)
-
-## Python
-
-* [Desenvolvendo chatbots para o Facebook Messenger com Python e Django 1/3](https://medium.com/botsbrasil/desenvolvendo-chatbots-para-o-facebook-messenger-com-python-e-django-1-3-eb9e6a5eaff2)
+* [Free Bulma Templates](https://dansup.github.io/bulma-templates/)
 
 ## Java
 
@@ -60,10 +58,14 @@ Apenas alguns links interessantes.
 * [Nelson Bassetto - Enterprise Integration Patterns](http://nelsonbassetto.com/blog/2013/02/enterprise-integration-patterns/)
 * [SlideShare - Enteprise Integration Patterns](https://pt.slideshare.net/kieras/enteprise-integration-patterns)
 
-## CSS
+## Python
 
-* [Free Bulma Templates](https://dansup.github.io/bulma-templates/)
+* [Desenvolvendo chatbots para o Facebook Messenger com Python e Django 1/3](https://medium.com/botsbrasil/desenvolvendo-chatbots-para-o-facebook-messenger-com-python-e-django-1-3-eb9e6a5eaff2)
 
-## Referências
+## Referências Diversas
 
 * [Argonavis](http://www.argonavis.com.br/download.html)
+
+## Repositórios do Git
+
+* [Rafael 'Vicio' Augusto](https://github.com/rafaelvicio)

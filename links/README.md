@@ -3,6 +3,9 @@ Apenas alguns links interessantes:
 * [CSS](#css)
 * [Java](#java)
 * [Padrões de Integração Corporativa (Enterprise Integration Patterns - EIP)](#padrões-de-integração-corporativa-enterprise-integration-patterns---eip)
+* [Python](#python)
+* [Referências Diversas](#referências-diversas)
+* [Repositórios do Git](#repositórios-do-git)
 
 ## CSS
 
@@ -10,22 +13,9 @@ Apenas alguns links interessantes:
 
 ## Java
 
-### Spring
+### FreeMarker
 
-* [Spring Framework Guru - Configuring Spring Boot for PostgreSQL](https://springframework.guru/configuring-spring-boot-for-postgresql/)
-* [Spring Framework Guru - Spring Boot Web Application – Part 3 – Sring Data JPA](https://springframework.guru/spring-boot-web-application-part-3-spring-data-jpa/)
-* [MrBoll - REST Server with Spring Data, Spring Boot and PostgreSQL](http://mrbool.com/rest-server-with-spring-data-spring-boot-and-postgresql/34023)
-* [JavaBeat - Spring Data JPA : Custom Repository / Query Methods Example](http://javabeat.net/spring-data-custom-repository/)
-* [Domine o Spring](https://domineospring.wordpress.com/)
-
-### Spark Framework
-
-* [Spark Tutoriais](https://sparktutorials.github.io/)
-* [Blog Caelum - Introdução aos microservices com Spark: retorno de dados dos correios](http://blog.caelum.com.br/introducao-aos-microservices-com-spark-retorno-de-dados-dos-correios/)
-
-### Wildfly
-
-* [Mastertheboss.com - Using try-with-resources to close database connections](http://www.mastertheboss.com/jboss-server/jboss-datasource/using-try-with-resources-to-close-database-connections)
+* [ZetCode - FreeMarker tutorial](http://zetcode.com/java/freemarker/)
 
 ### MongoDB
 
@@ -42,9 +32,22 @@ Apenas alguns links interessantes:
 * [MongoDB Wise - Java](https://mongodbwise.wordpress.com/2014/05/20/mongodb-java/)
 * [MBallem - NoSQL com MongoDB e Persistência em Java](http://www.mballem.com/post/nosql-com-mongodb-e-persistencia-em-java/)
 
-### FreeMarker
+### Spark Framework
 
-* [ZetCode - FreeMarker tutorial](http://zetcode.com/java/freemarker/)
+* [Spark Tutoriais](https://sparktutorials.github.io/)
+* [Blog Caelum - Introdução aos microservices com Spark: retorno de dados dos correios](http://blog.caelum.com.br/introducao-aos-microservices-com-spark-retorno-de-dados-dos-correios/)
+
+### Spring
+
+* [Spring Framework Guru - Configuring Spring Boot for PostgreSQL](https://springframework.guru/configuring-spring-boot-for-postgresql/)
+* [Spring Framework Guru - Spring Boot Web Application – Part 3 – Sring Data JPA](https://springframework.guru/spring-boot-web-application-part-3-spring-data-jpa/)
+* [MrBoll - REST Server with Spring Data, Spring Boot and PostgreSQL](http://mrbool.com/rest-server-with-spring-data-spring-boot-and-postgresql/34023)
+* [JavaBeat - Spring Data JPA : Custom Repository / Query Methods Example](http://javabeat.net/spring-data-custom-repository/)
+* [Domine o Spring](https://domineospring.wordpress.com/)
+
+### Wildfly
+
+* [Mastertheboss.com - Using try-with-resources to close database connections](http://www.mastertheboss.com/jboss-server/jboss-datasource/using-try-with-resources-to-close-database-connections)
 
 ## Padrões de Integração Corporativa (Enterprise Integration Patterns - EIP)
 

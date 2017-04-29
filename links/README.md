@@ -54,7 +54,7 @@ Apenas alguns links interessantes:
 
 ### Vue.JS
 
-* [](http://www.vuejs-brasil.com.br/vue-js-em-projetos-nao-spa/)
+* [Vue.js Brasil - Vue.js em Projetos não SPA](http://www.vuejs-brasil.com.br/vue-js-em-projetos-nao-spa/)
 
 ## Padrões de Integração Corporativa (Enterprise Integration Patterns - EIP)
 

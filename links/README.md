@@ -2,6 +2,7 @@
 Apenas alguns links interessantes:
 * [CSS](#css)
 * [Java](#java)
+* [JavaScript](#javascript)
 * [Padrões de Integração Corporativa (Enterprise Integration Patterns - EIP)](#padrões-de-integração-corporativa-enterprise-integration-patterns---eip)
 * [Python](#python)
 * [Referências Diversas](#referências-diversas)
@@ -49,6 +50,12 @@ Apenas alguns links interessantes:
 
 * [Mastertheboss.com - Using try-with-resources to close database connections](http://www.mastertheboss.com/jboss-server/jboss-datasource/using-try-with-resources-to-close-database-connections)
 
+## Javascript
+
+### Vue.JS
+
+* [](http://www.vuejs-brasil.com.br/vue-js-em-projetos-nao-spa/)
+
 ## Padrões de Integração Corporativa (Enterprise Integration Patterns - EIP)
 
 * [Devmedia - Apache Camel: Um guia completo - Parte 1 e 2](http://www.devmedia.com.br/apache-camel-um-guia-completo/37389)
@@ -69,6 +76,7 @@ Apenas alguns links interessantes:
 ## Referências Diversas
 
 * [Argonavis](http://www.argonavis.com.br/download.html)
+* [Vinícius reis - Vida em comunidade, aprenda a perguntar](https://medium.com/by-vinicius-reis/vida-em-comunidades-aprenda-a-perguntar-b4ce7b0eed99#.rwgipnfrj)
 
 ## Repositórios do Git
 

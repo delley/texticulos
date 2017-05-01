@@ -4,6 +4,7 @@ Apenas alguns links interessantes:
 * [Docker](#docker)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Mensageria](#mensageria)
 * [Padrões de Integração Corporativa (Enterprise Integration Patterns - EIP)](#padrões-de-integração-corporativa-enterprise-integration-patterns---eip)
 * [Python](#python)
 * [Referências Diversas](#referências-diversas)
@@ -63,6 +64,31 @@ Apenas alguns links interessantes:
 ### Vue.JS
 
 * [Vue.js Brasil - Vue.js em Projetos não SPA](http://www.vuejs-brasil.com.br/vue-js-em-projetos-nao-spa/)
+
+## Mensageria
+
+* [Devmedia - Artigo Java Magazine 76 - JMS na prática com Spring e ActiveMQ](http://www.devmedia.com.br/artigo-java-magazine-76-jms-na-pratica-com-spring-e-activemq/15855)
+* [Devmedia - Como migrar seu serviço JMS Java EE para a nuvem da Amazon](http://www.devmedia.com.br/como-migrar-seu-servico-jms-java-ee-para-a-nuvem-da-amazon/37370)
+* [Devmedia - Vídeo: JMS com o JBoss](http://www.devmedia.com.br/jms-com-o-jboss/32433)
+* [Devmedia - Primeiros passos no JBoss HornetQ](http://www.devmedia.com.br/primeiros-passos-no-jboss-hornetq/27353)
+* [Devmedia - JMS 2.0: Conheça os novos recursos da API Java Message Service](http://www.devmedia.com.br/jms-2-0-conheca-os-novos-recursos-da-api-java-message-service/28280)
+* [Devmedia - Como integrar sistemas com mensageria e Spring](http://www.devmedia.com.br/como-integrar-sistemas-com-mensageria-e-spring/28883)
+* [Devmedia - Como implementar a troca de mensagens com JMS](http://www.devmedia.com.br/como-implementar-a-troca-de-mensagens-com-jms/25127)
+* [Devmedia - Introdução ao AMQP com RabbitMQ](http://www.devmedia.com.br/introducao-ao-amqp-com-rabbitmq/33036)
+* [Devmedia - Como implementar integrações com mensageria com JBoss, RabbitMQ e Qpid](http://www.devmedia.com.br/como-implementar-integracoes-com-mensageria-com-jboss-rabbitmq-e-qpid/31538)
+* [Locaweb - AMQP Básico Ilustrado](http://blog.locaweb.com.br/artigos/tecnologia/amqp-bsico-ilustrado/)
+* [Luciano Molinari - TDC 2012 - Java e AMQP: Uma alternativa ao JMS](https://lucianomolinari.wordpress.com/2012/07/30/tdc-2012-java-e-amqp-uma-alternativa-ao-jms/)
+* [Concrete Solutions - Clusterizando RabbitMQ com Docker Compose](https://www.concretesolutions.com.br/2016/12/19/rabbitmq-docker-compose/)
+* [MundiPagg Blog - RabbitMQ Message Broker Desacoplando Workflows – Parte 1](https://blog.mundipagg.com/rabbitmq-message-broker-desacoplando-workflows-parte-1/)
+* [DClick - RabbitMQ, AMQP e Spring-AMQP](http://www.dclick.com.br/2011/01/20/rabbitmq-amqp-e-spring-amqp/)
+* [TecnoSpeed - Arquitetura de microserviços utilizando AMQP](http://tsdn.tecnospeed.com.br/blog-do-desenvolvimento-tecnospeed/post/arquitetura-de-microservicos-utilizando-amqp)
+* [Concrete Solutions - RabbitMQ, Conceitos Básicos](https://www.concretesolutions.com.br/2012/01/26/rabbitmq-conceitos-basicos/)
+* [MBallem - Chat JMS com ActiveMQ](http://www.mballem.com/post/chat-jms-com-activemq/)
+* [makandracards - [ActiveMQ] Instalação do ActiveMQ como serviço](https://makandracards.com/zeroglosa/35131-activemq-instalacao-do-activemq-como-servico)
+* [iMasters - Usando ActiveMQ através de Ajax e REST](https://imasters.com.br/artigo/16501/desenvolvimento/usando-activemq-atraves-de-ajax-e-rest/?trace=1519021197&source=single)
+* [GitHub - docker-activemq](https://github.com/rmohr/docker-activemq/)
+
+
 
 ## Padrões de Integração Corporativa (Enterprise Integration Patterns - EIP)
 

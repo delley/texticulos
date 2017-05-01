@@ -52,6 +52,8 @@ Apenas alguns links interessantes:
 
 ## Javascript
 
+* [TecSinapse - Utilizando ES6 no Node.js com Babel.js](https://blog.tecsinapse.com.br/utilizando-es6-no-node-js-com-babel-js-430346d68794)
+
 ### Vue.JS
 
 * [Vue.js Brasil - Vue.js em Projetos não SPA](http://www.vuejs-brasil.com.br/vue-js-em-projetos-nao-spa/)

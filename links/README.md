@@ -144,3 +144,6 @@ Apenas alguns links interessantes:
 ## Repositórios do Git
 
 * [Rafael 'Vicio' Augusto](https://github.com/rafaelvicio)
+* [André Mafra](https://github.com/andresmafra/netshoes)
+* [Rafael Naufal - Gerenciamento de endereços](https://github.com/rnaufal/address-management)
+* [Rafael Naufal - Busca de um caracter vogal em uma Stream](https://github.com/rnaufal/vowel-stream-search)

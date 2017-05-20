@@ -25,6 +25,10 @@ Apenas alguns links interessantes:
 
 * [ZetCode - FreeMarker tutorial](http://zetcode.com/java/freemarker/)
 
+### JPA
+
+* [Arquitetura Computacional - Entenda o ciclo de vida das entidades JPA](http://www.arquiteturacomputacional.eti.br/2013/02/)
+
 ### MongoDB
 
 * [Developer’s Corner - Java Connecting to MongoDB 3.2 Examples](https://avaldes.com/java-connecting-to-mongodb-3-2-examples/)
@@ -57,9 +61,21 @@ Apenas alguns links interessantes:
 
 * [Mastertheboss.com - Using try-with-resources to close database connections](http://www.mastertheboss.com/jboss-server/jboss-datasource/using-try-with-resources-to-close-database-connections)
 
+### Wildfly Swarm
+
+* [DZone - Creating Documented REST APIs With Wildfly Swarm](https://dzone.com/articles/creating-documented-rest-apis-with-wildfly-swarm)
+* [Voxxed - WildFly Swarm: Building Microservices with Java EE](https://www.voxxed.com/blog/2015/05/wildfly-swarm-building-microservices-with-java-ee/)
+* [GitHub - WildFly kitchensink-html5-mobile Example](https://github.com/wildfly-swarm/wildfly-swarm-examples/tree/master/kitchensink-html5-mobile)
+* [Aprendendo JavaEE - CRUD usando Java EE em 7 passos](http://aprendendo-javaee.blogspot.com.br/2016/09/crud-usando-java-ee-em-7-passos.html)
+
 ## Javascript
 
 * [TecSinapse - Utilizando ES6 no Node.js com Babel.js](https://blog.tecsinapse.com.br/utilizando-es6-no-node-js-com-babel-js-430346d68794)
+* [Codeminer 42’s - Refatorando para JavaScript Funcional: composição de funções (parte 1)](https://blog.codeminer42.com/refatorando-para-javascript-funcional-composi%C3%A7%C3%A3o-de-fun%C3%A7%C3%B5es-parte-1-263811e2dfbc)
+* [Codeminer 42’s - Refatorando para JavaScript Funcional: composição de funções (parte 2)](https://blog.codeminer42.com/refatorando-para-javascript-funcional-composi%C3%A7%C3%A3o-de-fun%C3%A7%C3%B5es-parte-2-ff8cbe53122b)
+* [Tableless - Como publiquei uma PWA feita com Ionic na Amazon EC2](https://medium.com/tableless/como-publiquei-uma-pwa-feita-com-ionic-na-amazon-ec2-3fda125115f9)
+* [Waldemar Neto - Node.js: V8, Single thread e I/O não bloqueante](http://walde.co/2016/11/27/node-js-v8-single-thread-e-o-que-e-esse-event-loop-afinal/)
+* [CodeShare - Garbage Collector no JavaScript](https://blog.codeshare.com.br/garbage-collector-no-javascript/)
 
 ### Vue.JS
 
@@ -111,6 +127,10 @@ Apenas alguns links interessantes:
 * [Aulas - Enterprise Integration Patterns (EAI)](http://aulas.goldstep.com.br/tecnologia-da-informacao/enterprise-integration-patterns-eai/590/)
 * [Nelson Bassetto - Enterprise Integration Patterns](http://nelsonbassetto.com/blog/2013/02/enterprise-integration-patterns/)
 * [SlideShare - Enteprise Integration Patterns](https://pt.slideshare.net/kieras/enteprise-integration-patterns)
+
+## Padrões de Projeto
+
+* [Marcos Brizeno - Decorator](https://brizeno.wordpress.com/category/padroes-de-projeto/decorator/)
 
 ## Python
 

@@ -21,6 +21,8 @@ Apenas alguns links interessantes:
 
 ## Java
 
+* [Baeldung - Introduction to HikariCP](http://www.baeldung.com/hikaricp)
+
 ### FreeMarker
 
 * [ZetCode - FreeMarker tutorial](http://zetcode.com/java/freemarker/)

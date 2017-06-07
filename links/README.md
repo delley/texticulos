@@ -1,18 +1,35 @@
 # Links Interessantes
 Apenas alguns links interessantes:
+* [APIs REST](#apis-rest)
+* [Atom](#atom)
 * [CSS](#css)
 * [Docker](#docker)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Kotlin](#kotlin)
 * [Mensageria](#mensageria)
 * [Padrões de Integração Corporativa (Enterprise Integration Patterns - EIP)](#padrões-de-integração-corporativa-enterprise-integration-patterns---eip)
 * [Python](#python)
 * [Referências Diversas](#referências-diversas)
 * [Repositórios do Git](#repositórios-do-git)
 
+## APIs REST
+
+* [CLEBERTECH - O Guia Definitivo para construção de APIs REST](https://medium.com/clebertech/o-guia-definitivo-para-constru%C3%A7%C3%A3o-de-apis-rest-470d0c885fe1)
+* [Vogella GmbH - REST with Java (JAX-RS) using Jersey - Tutorial](http://www.vogella.com/tutorials/REST/article.html)
+* [B2W Services - Padrões e Convenções](https://api-sandbox.bonmarketplace.com.br/docs/padroes.shtml)
+
+## Atom
+
+* [Scotch.io - Best of Atom: Features, Plugins, Acting Like Sublime Text](https://scotch.io/bar-talk/best-of-atom-features-plugins-acting-like-sublime-text)
+* [Tableless - Atom: o novo editor by Github](https://tableless.com.br/atom-o-novo-editor-github/)
+* [Design Interativo - Dicas para você começar a utilizar o editor de texto Atom](http://www.designinterativo.etc.br/ferramentas/dicas-para-voce-comecar-a-utilizar-o-editor-de-texto-atom)
+
 ## CSS
 
 * [Free Bulma Templates](https://dansup.github.io/bulma-templates/)
+* [CSS e Escalabilidade — Nós deveríamos escrever menos CSS](https://medium.com/tableless/css-e-escalabilidade-n%C3%B3s-dever%C3%ADamos-escrever-menos-css-7bf9d4749519)
+* [8 regras simples para uma arquitetura CSS robusta e escalável](https://medium.com/tableless/8-regras-simples-para-uma-arquitetura-css-robusta-e-escal%C3%A1vel-545c6dade170)
 
 ## Docker
 
@@ -83,6 +100,17 @@ Apenas alguns links interessantes:
 
 * [Vue.js Brasil - Vue.js em Projetos não SPA](http://www.vuejs-brasil.com.br/vue-js-em-projetos-nao-spa/)
 
+## Kotlin
+
+* [Kotlin](http://kotlinlang.org/)
+* [Rafael Toledo - Desenvolvendo para Android com Kotlin: Como Começar?](http://www.rafaeltoledo.net/desenvolvendo-para-android-com-kotlin-como-comecar/)
+* [](https://www.concretesolutions.com.br/2017/05/10/api-java-kotlin-spring-boot/)
+* [Concrete Solutions - Migrando sua API Java para Kotlin com Spring Boot - Parte 1](https://www.concretesolutions.com.br/2017/05/10/api-java-kotlin-spring-boot/)
+* [Concrete Solutions - Migrando sua API Java para Kotlin com Spring Boot - Parte 2](https://www.concretesolutions.com.br/2017/05/12/api-java-kotlin-spring-boot-2/)
+* [Concrete Solutions - Kotlin no Backend- Parte 1](https://www.concretesolutions.com.br/2016/08/15/kotlin-no-backend-parte-1/)
+* [Concrete Solutions - Kotlin no Backend- Parte 2](https://www.concretesolutions.com.br/2016/08/16/kotlin-no-backend-parte-2/)
+* [Pedro Mendes - Kotlin e seu Null Safety](http://www.pedromendes.com.br/2017/05/31/kotlin-null-safety/)
+
 ## Mensageria
 
 ### ActiveMQ
@@ -142,6 +170,9 @@ Apenas alguns links interessantes:
 
 * [Argonavis](http://www.argonavis.com.br/download.html)
 * [Vinícius reis - Vida em comunidade, aprenda a perguntar](https://medium.com/by-vinicius-reis/vida-em-comunidades-aprenda-a-perguntar-b4ce7b0eed99#.rwgipnfrj)
+* [Nomadev - Passo-a-passo como desenvolver com Atomic Design, Mobile-first e Stylus - Parte 1](http://nomadev.com.br/passo-a-passo-como-desenvolver-com-atomic-design-mobile-first-e-stylus/)
+* [Nomadev - Passo-a-passo como desenvolver com Atomic Design, Mobile-first e Stylus - Parte 2](http://nomadev.com.br/passo-a-passo-como-desenvolver-com-atomic-design-mobile-first-e-stylus-parte-2/)
+* [Nomadev - Passo-a-passo como desenvolver com Atomic Design, Mobile-first e Stylus - Parte 3](http://nomadev.com.br/passo-a-passo-como-desenvolver-com-atomic-design-mobile-first-e-stylus-parte-3/)
 
 ## Repositórios do Git
 

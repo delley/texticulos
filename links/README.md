@@ -18,6 +18,7 @@ Apenas alguns links interessantes:
 * [CLEBERTECH - O Guia Definitivo para construção de APIs REST](https://medium.com/clebertech/o-guia-definitivo-para-constru%C3%A7%C3%A3o-de-apis-rest-470d0c885fe1)
 * [Vogella GmbH - REST with Java (JAX-RS) using Jersey - Tutorial](http://www.vogella.com/tutorials/REST/article.html)
 * [B2W Services - Padrões e Convenções](https://api-sandbox.bonmarketplace.com.br/docs/padroes.shtml)
+* [InfoQ - APIs do Jeito Certo](https://www.infoq.com/br/presentations/apis-do-jeito-certo)
 
 ## Atom
 
@@ -35,6 +36,7 @@ Apenas alguns links interessantes:
 
 * [DigitalOcean - Como Instalar e Usar o Docker no Ubuntu 16.04 ](https://www.digitalocean.com/community/tutorials/como-instalar-e-usar-o-docker-no-ubuntu-16-04-pt)
 * [ChurrOps - [Docker] P01 – Instalação no Linux, e nosso primeiro container “hello-wolrd”!](https://rdglinux.wordpress.com/2017/04/10/docker-p01-instalacao-no-linux-e-nosso-primeiro-container-hello-wolrd/)
+* [InfoQ - Java/JVM com Docker em produção: lições das trincheiras](https://www.infoq.com/br/presentations/java-jvm-com-docker-em-producao-licoes-das-trincheiras)
 
 ## Java
 
@@ -43,6 +45,10 @@ Apenas alguns links interessantes:
 ### FreeMarker
 
 * [ZetCode - FreeMarker tutorial](http://zetcode.com/java/freemarker/)
+
+### Infinispan
+
+* [Devmedia - Distribuição de Dados com Java - Revista Java Magazine 95](http://www.devmedia.com.br/distribuicao-de-dados-com-java-revista-java-magazine-95/22318)
 
 ### JPA
 
@@ -75,6 +81,7 @@ Apenas alguns links interessantes:
 * [MrBoll - REST Server with Spring Data, Spring Boot and PostgreSQL](http://mrbool.com/rest-server-with-spring-data-spring-boot-and-postgresql/34023)
 * [JavaBeat - Spring Data JPA : Custom Repository / Query Methods Example](http://javabeat.net/spring-data-custom-repository/)
 * [Domine o Spring](https://domineospring.wordpress.com/)
+* [Easily secure your Spring Boot applications with Keycloak](https://developers.redhat.com/blog/2017/05/25/easily-secure-your-spring-boot-applications-with-keycloak/)
 
 ### Wildfly
 
@@ -95,6 +102,8 @@ Apenas alguns links interessantes:
 * [Tableless - Como publiquei uma PWA feita com Ionic na Amazon EC2](https://medium.com/tableless/como-publiquei-uma-pwa-feita-com-ionic-na-amazon-ec2-3fda125115f9)
 * [Waldemar Neto - Node.js: V8, Single thread e I/O não bloqueante](http://walde.co/2016/11/27/node-js-v8-single-thread-e-o-que-e-esse-event-loop-afinal/)
 * [CodeShare - Garbage Collector no JavaScript](https://blog.codeshare.com.br/garbage-collector-no-javascript/)
+* [Medium - Reflexão em padrões de projeto para Node.js](https://medium.com/emanuelg-blog/reflex%C3%A3o-em-padr%C3%B5es-de-projeto-para-node-js-b7344f2529c7)
+* [Medium - Entendendo Programação Funcional em JavaScript de uma vez](https://medium.com/tableless/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b)
 
 ### Vue.JS
 

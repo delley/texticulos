@@ -26,6 +26,11 @@ Apenas alguns links interessantes:
 * [Tableless - Atom: o novo editor by Github](https://tableless.com.br/atom-o-novo-editor-github/)
 * [Design Interativo - Dicas para você começar a utilizar o editor de texto Atom](http://www.designinterativo.etc.br/ferramentas/dicas-para-voce-comecar-a-utilizar-o-editor-de-texto-atom)
 
+## Bots
+
+* [api.ai - Breve introdução da plataforma](https://medium.com/botsbrasil/api-ai-breve-introdu%C3%A7%C3%A3o-da-plataforma-ecb2d77107a2)
+* [Desenvolvendo chatbots para o Facebook Messenger com Python e Django 1/3](https://medium.com/botsbrasil/desenvolvendo-chatbots-para-o-facebook-messenger-com-python-e-django-1-3-eb9e6a5eaff2)
+
 ## CSS
 
 * [Free Bulma Templates](https://dansup.github.io/bulma-templates/)
@@ -113,7 +118,6 @@ Apenas alguns links interessantes:
 
 * [Kotlin](http://kotlinlang.org/)
 * [Rafael Toledo - Desenvolvendo para Android com Kotlin: Como Começar?](http://www.rafaeltoledo.net/desenvolvendo-para-android-com-kotlin-como-comecar/)
-* [](https://www.concretesolutions.com.br/2017/05/10/api-java-kotlin-spring-boot/)
 * [Concrete Solutions - Migrando sua API Java para Kotlin com Spring Boot - Parte 1](https://www.concretesolutions.com.br/2017/05/10/api-java-kotlin-spring-boot/)
 * [Concrete Solutions - Migrando sua API Java para Kotlin com Spring Boot - Parte 2](https://www.concretesolutions.com.br/2017/05/12/api-java-kotlin-spring-boot-2/)
 * [Concrete Solutions - Kotlin no Backend- Parte 1](https://www.concretesolutions.com.br/2016/08/15/kotlin-no-backend-parte-1/)

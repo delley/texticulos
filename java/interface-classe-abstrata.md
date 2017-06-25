@@ -1,4 +1,3 @@
-
 # Interface e Classe Abstrata
 
 Entenda de forma efetiva e correta a definição de Interface e Classe Abstrata.

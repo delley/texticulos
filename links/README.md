@@ -111,6 +111,18 @@ Apenas alguns links interessantes:
 * [Medium - Reflexão em padrões de projeto para Node.js](https://medium.com/emanuelg-blog/reflex%C3%A3o-em-padr%C3%B5es-de-projeto-para-node-js-b7344f2529c7)
 * [Medium - Entendendo Programação Funcional em JavaScript de uma vez](https://medium.com/tableless/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b)
 
+### Electron
+
+* [Electron](https://electron.atom.io/)
+* [Electron - Doc pt-BR](https://github.com/electron/electron/tree/master/docs-translations/pt-BR)
+* [Tableless - Introdução ao Electron](https://tableless.com.br/introducao-ao-electron/)
+* [Vue.js Brasil - electron-vue](http://www.vuejs-brasil.com.br/electron-vue/)
+* [Clube dos Geeks - Criando aplicativo com Electron - Gerando executável](http://clubedosgeeks.com.br/programacao/node-js/criando-aplicativo-com-electron-gerando-executavel)
+* [Marcos Dias - Introdução ao Electron - faça aplicativos desktop com HTML, JS e CSS!!](http://www.marcdias.com.br/introducao-ao-electron-faca-aplicativos-desktop-com-html-js-e-css/)
+* [Ventron - Tutorial - Criando uma Aplicação em Electron](http://www.ventron.com.br/tutorial-criando-uma-aplicacao-em-electron/)
+* [Linux Descomplicado - Saiba como criar aplicações desktop multiplataforma usando JavaScript, HTML e CSS](https://www.linuxdescomplicado.com.br/2016/09/saiba-como-criar-aplicacoes-desktop-multiplataforma-usando-javascript-html-e-css.html)
+* [DZone - Build Desktop Apps Using Electron: The Beginner’s Guide](https://dzone.com/articles/build-desktop-apps-using-electron-the-beginners-gu)
+
 ### Vue.JS
 
 * [Vue.js Brasil - Vue.js em Projetos não SPA](http://www.vuejs-brasil.com.br/vue-js-em-projetos-nao-spa/)

@@ -2,6 +2,7 @@
 Apenas alguns links interessantes:
 * [APIs REST](#apis-rest)
 * [Atom](#atom)
+* [Bots](#bots)
 * [CSS](#css)
 * [Docker](#docker)
 * [Java](#java)

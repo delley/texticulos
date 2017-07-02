@@ -138,6 +138,7 @@ Apenas alguns links interessantes:
 ### Vue.JS
 
 * [Vue.js Brasil - Vue.js em Projetos não SPA](http://www.vuejs-brasil.com.br/vue-js-em-projetos-nao-spa/)
+* [Guilherme Rodrigues Simeão - Vue.JS init - Uma abordagem inicial sobre a biblioteca JavaScript VueJs](https://medium.com/@grodrigues.simeao/vuejs-init-uma-abordagem-inicial-sobre-a-biblioteca-javascript-vuejs-b2490771f05c)
 
 ## Kotlin
 
@@ -215,6 +216,7 @@ Apenas alguns links interessantes:
 * [Nomadev - Passo-a-passo como desenvolver com Atomic Design, Mobile-first e Stylus - Parte 2](http://nomadev.com.br/passo-a-passo-como-desenvolver-com-atomic-design-mobile-first-e-stylus-parte-2/)
 * [Nomadev - Passo-a-passo como desenvolver com Atomic Design, Mobile-first e Stylus - Parte 3](http://nomadev.com.br/passo-a-passo-como-desenvolver-com-atomic-design-mobile-first-e-stylus-parte-3/)
 * [Minishift - Containerized OpenShift Cluster](https://www.openshift.org/minishift/)
+* [DZone Refcardz](https://dzone.com/refcardz)
 
 ## Repositórios do Git
 

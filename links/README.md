@@ -37,6 +37,7 @@ Apenas alguns links interessantes:
 * [Free Bulma Templates](https://dansup.github.io/bulma-templates/)
 * [CSS e Escalabilidade — Nós deveríamos escrever menos CSS](https://medium.com/tableless/css-e-escalabilidade-n%C3%B3s-dever%C3%ADamos-escrever-menos-css-7bf9d4749519)
 * [8 regras simples para uma arquitetura CSS robusta e escalável](https://medium.com/tableless/8-regras-simples-para-uma-arquitetura-css-robusta-e-escal%C3%A1vel-545c6dade170)
+* [CSS-Tricks - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Docker
 
@@ -55,6 +56,12 @@ Apenas alguns links interessantes:
 ### Infinispan
 
 * [Devmedia - Distribuição de Dados com Java - Revista Java Magazine 95](http://www.devmedia.com.br/distribuicao-de-dados-com-java-revista-java-magazine-95/22318)
+
+### Java EE 8
+
+* [TriadWorks - MVC 1.0: JSR para um framework MVC action-based na Java EE 8](http://blog.triadworks.com.br/mvc-1-0-jsr-para-um-framework-mvc-action-based-na-java-ee-8)
+* [Devmedia - MVC baseado em ações no Java EE](http://www.devmedia.com.br/mvc-baseado-em-acoes-no-java-ee/35709)
+* [Daniel Dias - Criando uma aplicação com JSR-371(MVC 1.0)](https://danieldiasjava.wordpress.com/2017/01/25/criando-uma-aplicacao-com-jsr-371mvc-1-0/)
 
 ### JPA
 
@@ -110,6 +117,7 @@ Apenas alguns links interessantes:
 * [CodeShare - Garbage Collector no JavaScript](https://blog.codeshare.com.br/garbage-collector-no-javascript/)
 * [Medium - Reflexão em padrões de projeto para Node.js](https://medium.com/emanuelg-blog/reflex%C3%A3o-em-padr%C3%B5es-de-projeto-para-node-js-b7344f2529c7)
 * [Medium - Entendendo Programação Funcional em JavaScript de uma vez](https://medium.com/tableless/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b)
+* [João Milton Lavoier Filho - Vivendo sem jQuery - parte 1](https://medium.com/iclinic/vivendo-sem-jquery-parte-1-de4ed1efa5bf)
 
 ### Electron
 
@@ -122,6 +130,10 @@ Apenas alguns links interessantes:
 * [Ventron - Tutorial - Criando uma Aplicação em Electron](http://www.ventron.com.br/tutorial-criando-uma-aplicacao-em-electron/)
 * [Linux Descomplicado - Saiba como criar aplicações desktop multiplataforma usando JavaScript, HTML e CSS](https://www.linuxdescomplicado.com.br/2016/09/saiba-como-criar-aplicacoes-desktop-multiplataforma-usando-javascript-html-e-css.html)
 * [DZone - Build Desktop Apps Using Electron: The Beginner’s Guide](https://dzone.com/articles/build-desktop-apps-using-electron-the-beginners-gu)
+
+### Sails.js
+
+* [Walter Gandarella - Conhecendo o Sails.js](https://blog.wgbn.com.br/conhecendo-o-sails-js-e86daa15645a)
 
 ### Vue.JS
 
@@ -183,6 +195,9 @@ Apenas alguns links interessantes:
 * [Aulas - Enterprise Integration Patterns (EAI)](http://aulas.goldstep.com.br/tecnologia-da-informacao/enterprise-integration-patterns-eai/590/)
 * [Nelson Bassetto - Enterprise Integration Patterns](http://nelsonbassetto.com/blog/2013/02/enterprise-integration-patterns/)
 * [SlideShare - Enteprise Integration Patterns](https://pt.slideshare.net/kieras/enteprise-integration-patterns)
+* [Christina の J老闆](http://wei-meilin.blogspot.com.br/)
+* [DFJUG - Além do Camel - Parte 1](https://www.youtube.com/watch?v=q10goJ3bvL4)
+* [DFJUG - Além do Camel - Parte 2](https://www.youtube.com/watch?v=n6rYcRRTbbM)
 
 ## Padrões de Projeto
 
@@ -199,6 +214,7 @@ Apenas alguns links interessantes:
 * [Nomadev - Passo-a-passo como desenvolver com Atomic Design, Mobile-first e Stylus - Parte 1](http://nomadev.com.br/passo-a-passo-como-desenvolver-com-atomic-design-mobile-first-e-stylus/)
 * [Nomadev - Passo-a-passo como desenvolver com Atomic Design, Mobile-first e Stylus - Parte 2](http://nomadev.com.br/passo-a-passo-como-desenvolver-com-atomic-design-mobile-first-e-stylus-parte-2/)
 * [Nomadev - Passo-a-passo como desenvolver com Atomic Design, Mobile-first e Stylus - Parte 3](http://nomadev.com.br/passo-a-passo-como-desenvolver-com-atomic-design-mobile-first-e-stylus-parte-3/)
+* [Minishift - Containerized OpenShift Cluster](https://www.openshift.org/minishift/)
 
 ## Repositórios do Git
 
@@ -206,3 +222,4 @@ Apenas alguns links interessantes:
 * [André Mafra](https://github.com/andresmafra/netshoes)
 * [Rafael Naufal - Gerenciamento de endereços](https://github.com/rnaufal/address-management)
 * [Rafael Naufal - Busca de um caracter vogal em uma Stream](https://github.com/rnaufal/vowel-stream-search)
+* [Spring Brasil - Spring Boot and Materialize](https://github.com/SpringBrasil/spring-boot-and-materialize)

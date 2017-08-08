@@ -87,15 +87,6 @@ Apenas alguns links interessantes:
 * [Spark Tutoriais](https://sparktutorials.github.io/)
 * [Blog Caelum - Introdução aos microservices com Spark: retorno de dados dos correios](http://blog.caelum.com.br/introducao-aos-microservices-com-spark-retorno-de-dados-dos-correios/)
 
-### Spring
-
-* [Spring Framework Guru - Configuring Spring Boot for PostgreSQL](https://springframework.guru/configuring-spring-boot-for-postgresql/)
-* [Spring Framework Guru - Spring Boot Web Application – Part 3 – Sring Data JPA](https://springframework.guru/spring-boot-web-application-part-3-spring-data-jpa/)
-* [MrBoll - REST Server with Spring Data, Spring Boot and PostgreSQL](http://mrbool.com/rest-server-with-spring-data-spring-boot-and-postgresql/34023)
-* [JavaBeat - Spring Data JPA : Custom Repository / Query Methods Example](http://javabeat.net/spring-data-custom-repository/)
-* [Domine o Spring](https://domineospring.wordpress.com/)
-* [Easily secure your Spring Boot applications with Keycloak](https://developers.redhat.com/blog/2017/05/25/easily-secure-your-spring-boot-applications-with-keycloak/)
-
 ### Wildfly
 
 * [Mastertheboss.com - Using try-with-resources to close database connections](http://www.mastertheboss.com/jboss-server/jboss-datasource/using-try-with-resources-to-close-database-connections)
@@ -152,6 +143,8 @@ Apenas alguns links interessantes:
 
 ## Mensageria
 
+* [Forter - Comparing Message Queue Architectures on AWS](http://tech.forter.com/comparing-message-queue-architectures-on-aws/)
+
 ### ActiveMQ
 
 * [Devmedia - Artigo Java Magazine 76 - JMS na prática com Spring e ActiveMQ](http://www.devmedia.com.br/artigo-java-magazine-76-jms-na-pratica-com-spring-e-activemq/15855)
@@ -161,6 +154,7 @@ Apenas alguns links interessantes:
 * [makandracards - [ActiveMQ] Instalação do ActiveMQ como serviço](https://makandracards.com/zeroglosa/35131-activemq-instalacao-do-activemq-como-servico)
 * [iMasters - Usando ActiveMQ através de Ajax e REST](https://imasters.com.br/artigo/16501/desenvolvimento/usando-activemq-atraves-de-ajax-e-rest/?trace=1519021197&source=single)
 * [GitHub - docker-activemq](https://github.com/rmohr/docker-activemq/)
+* [DZone - JMS With ActiveMQ ](https://dzone.com/articles/jms-activemq)
 
 ### HornetQ
 
@@ -171,6 +165,17 @@ Apenas alguns links interessantes:
 * [Devmedia - Como migrar seu serviço JMS Java EE para a nuvem da Amazon](http://www.devmedia.com.br/como-migrar-seu-servico-jms-java-ee-para-a-nuvem-da-amazon/37370)
 * [Devmedia - Vídeo: JMS com o JBoss](http://www.devmedia.com.br/jms-com-o-jboss/32433)
 * [Devmedia - JMS 2.0: Conheça os novos recursos da API Java Message Service](http://www.devmedia.com.br/jms-2-0-conheca-os-novos-recursos-da-api-java-message-service/28280)
+* [Devmedia - JMS API: Como desenvolver sistemas baseados em mensageria](http://www.devmedia.com.br/jms-api-como-desenvolver-sistemas-baseados-em-mensageria/30073)
+
+### Microservices
+
+* [GitHub - Ebooks](https://github.com/miguellgt/books/tree/master/microservices)
+* [Rafael Romão - Obtendo sucesso com Arquitetura de Microserviços](http://www.rafaelromao.com/2014/08/obtendo-sucesso-com-arquitetura-de.html)
+* [Pedro Mendes - Microsserviços, por Martin Fowler e James Lewis](http://www.pedromendes.com.br/2016/01/02/microservicos/)
+* [nessauepa - Tradução – Modelo de Maturidade de Richardson](http://www.nessauepa.com.br/blog/2013/07/traducao-modelo-de-maturidade-de-richardson/)
+* [REST API Tutorial - Richardson Maturity Model](http://restfulapi.net/richardson-maturity-model/)
+* [Pasqua Tecnologia - REST - Richardson Maturity Model](http://www.douglaspasqua.com/2016/03/12/richardson-maturity-model/)
+* [restcookbook.com - What is the Richardson Maturity Model?](http://restcookbook.com/Miscellaneous/richardsonmaturitymodel/)
 
 ### RabbitMQ
 
@@ -225,3 +230,28 @@ Apenas alguns links interessantes:
 * [Rafael Naufal - Gerenciamento de endereços](https://github.com/rnaufal/address-management)
 * [Rafael Naufal - Busca de um caracter vogal em uma Stream](https://github.com/rnaufal/vowel-stream-search)
 * [Spring Brasil - Spring Boot and Materialize](https://github.com/SpringBrasil/spring-boot-and-materialize)
+
+## Spring Framework
+
+### Spring Boot
+* [Spring Framework Guru - Configuring Spring Boot for PostgreSQL](https://springframework.guru/configuring-spring-boot-for-postgresql/)
+* [Spring Framework Guru - Spring Boot Web Application – Part 3 – Sring Data JPA](https://springframework.guru/spring-boot-web-application-part-3-spring-data-jpa/)
+* [MrBoll - REST Server with Spring Data, Spring Boot and PostgreSQL](http://mrbool.com/rest-server-with-spring-data-spring-boot-and-postgresql/34023)
+
+* [Domine o Spring](https://domineospring.wordpress.com/)
+* [Easily secure your Spring Boot applications with Keycloak](https://developers.redhat.com/blog/2017/05/25/easily-secure-your-spring-boot-applications-with-keycloak/)
+
+### Spring Data
+* [JavaBeat - Spring Data JPA : Custom Repository / Query Methods Example](http://javabeat.net/spring-data-custom-repository/)
+
+### Spring WS
+* [MemoryNotFound - Spring WS Add Soap Header in Client](http://memorynotfound.com/spring-ws-add-soap-header-client/)
+* [Zoltan Altfatter - SOAP over HTTPS with client certificate authentication](http://zoltanaltfatter.com/2016/04/30/soap-over-https-with-client-certificate-authentication/)
+* [YouTube - Virtual Pair Programmers - Spring-WS Tutorial](https://www.youtube.com/watch?v=bfTmt_pUazU)
+* [Spring - Producing a SOAP web service](https://spring.io/guides/gs/producing-web-service/)
+* [Devmedia - Introdução ao Spring Web Services](http://www.devmedia.com.br/introducao-ao-spring-web-services/13921)
+* [tutorialspoint - Spring Web Services Tutorial](https://www.tutorialspoint.com/springws/index.htm)
+
+### Spring JMS
+* [Baeldung - Getting Started with Spring JMS](http://www.baeldung.com/spring-jms)
+* [Devmedia - Como integrar sistemas com mensageria e Spring](http://www.devmedia.com.br/como-integrar-sistemas-com-mensageria-e-spring/28883)

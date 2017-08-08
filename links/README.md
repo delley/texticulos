@@ -13,6 +13,7 @@ Apenas alguns links interessantes:
 * [Python](#python)
 * [Referências Diversas](#referências-diversas)
 * [Repositórios do Git](#repositórios-do-git)
+* [Spring Framework](#spring-framework)
 
 ## APIs REST
 
@@ -233,12 +234,12 @@ Apenas alguns links interessantes:
 
 ## Spring Framework
 
+* [Domine o Spring](https://domineospring.wordpress.com/)
+
 ### Spring Boot
 * [Spring Framework Guru - Configuring Spring Boot for PostgreSQL](https://springframework.guru/configuring-spring-boot-for-postgresql/)
 * [Spring Framework Guru - Spring Boot Web Application – Part 3 – Sring Data JPA](https://springframework.guru/spring-boot-web-application-part-3-spring-data-jpa/)
 * [MrBoll - REST Server with Spring Data, Spring Boot and PostgreSQL](http://mrbool.com/rest-server-with-spring-data-spring-boot-and-postgresql/34023)
-
-* [Domine o Spring](https://domineospring.wordpress.com/)
 * [Easily secure your Spring Boot applications with Keycloak](https://developers.redhat.com/blog/2017/05/25/easily-secure-your-spring-boot-applications-with-keycloak/)
 
 ### Spring Data

@@ -10,6 +10,7 @@ Apenas alguns links interessantes:
 * [Kotlin](#kotlin)
 * [Mensageria](#mensageria)
 * [Padrões de Integração Corporativa (Enterprise Integration Patterns - EIP)](#padrões-de-integração-corporativa-enterprise-integration-patterns---eip)
+* [Perl](#perl)
 * [Python](#python)
 * [Referências Diversas](#referências-diversas)
 * [Repositórios do Git](#repositórios-do-git)
@@ -209,6 +210,10 @@ Apenas alguns links interessantes:
 ## Padrões de Projeto
 
 * [Marcos Brizeno - Decorator](https://brizeno.wordpress.com/category/padroes-de-projeto/decorator/)
+
+## Perl
+
+* [Introdução ao Perl 6](http://pt.perl6intro.com/)
 
 ## Python
 

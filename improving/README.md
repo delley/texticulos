@@ -38,6 +38,7 @@ Links de referências para estudo
 ## Design Java & OO
 
 * [https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683)<sup>1</sup>
+* [https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997)
 * [https://www.amazon.com.br/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215](https://www.amazon.com.br/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 * [https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 

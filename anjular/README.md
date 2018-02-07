@@ -24,19 +24,19 @@ ngOnDestroy()
 Development environment
 
 ```bash
-ng build -> versão de dev
+ng build
 ```
 
 ou
 
 ```bash
-ng build --dev -> versão de dev
+ng build --dev
 ```
 
 Production environment
 
 ```bash
-ng build --prod -> versão de prod
+ng build --prod
 ```
 
 ## Start server
@@ -61,7 +61,7 @@ ng serve --host 192.168.0.54 --port 8080
 json-server --host 192.168.0.54 banco-de-dados.json
 ```
 
-### Fix bootstrap error BrowserslistError: Unknown browser major at error
+### Fix Bootstrap error BrowserslistError: Unknown browser major at error
 
 You can use Bootstrap 4, but first edit package.json in node_modules/bootstrap:
 

@@ -214,6 +214,9 @@ Apenas alguns links interessantes:
 ## Perl
 
 * [Introdução ao Perl 6](http://pt.perl6intro.com/)
+* [Linguagem de programação Perl - parte I](https://www.youtube.com/watch?v=Ne9Oou8tAMk)
+* [Linguagem de programação Perl - parte II](https://www.youtube.com/watch?v=FUJA6Em-7kw)
+* [Programando em Perl](https://www.youtube.com/watch?v=vcqG2sO9Mro)
 
 ## Python
 

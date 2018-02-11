@@ -4,11 +4,13 @@ Apenas alguns links interessantes:
 * [Atom](#atom)
 * [Bots](#bots)
 * [CSS](#css)
+* [CQRS](#cqrs)
 * [Docker](#docker)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
 * [Mensageria](#mensageria)
+* [Microservices](#microservices)
 * [Padrões de Integração Corporativa (Enterprise Integration Patterns - EIP)](#padrões-de-integração-corporativa-enterprise-integration-patterns---eip)
 * [Perl](#perl)
 * [Python](#python)
@@ -40,6 +42,13 @@ Apenas alguns links interessantes:
 * [CSS e Escalabilidade — Nós deveríamos escrever menos CSS](https://medium.com/tableless/css-e-escalabilidade-n%C3%B3s-dever%C3%ADamos-escrever-menos-css-7bf9d4749519)
 * [8 regras simples para uma arquitetura CSS robusta e escalável](https://medium.com/tableless/8-regras-simples-para-uma-arquitetura-css-robusta-e-escal%C3%A1vel-545c6dade170)
 * [CSS-Tricks - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+## CQRS
+
+* [Eduardo Pires: CQRS – O que é? Onde aplicar?](http://www.eduardopires.net.br/2016/07/cqrs-o-que-e-onde-aplicar/)
+* [InfoQ - Padrão de arquitetura CQRS: quando utilizar?](https://www.infoq.com/br/news/2011/11/cqrs)
+* [Revista PROGRAMAR - O que esconde o CQRS](https://www.revista-programar.info/artigos/o-que-esconde-o-cqrs/)
+
 
 ## Docker
 
@@ -169,16 +178,6 @@ Apenas alguns links interessantes:
 * [Devmedia - JMS 2.0: Conheça os novos recursos da API Java Message Service](http://www.devmedia.com.br/jms-2-0-conheca-os-novos-recursos-da-api-java-message-service/28280)
 * [Devmedia - JMS API: Como desenvolver sistemas baseados em mensageria](http://www.devmedia.com.br/jms-api-como-desenvolver-sistemas-baseados-em-mensageria/30073)
 
-### Microservices
-
-* [GitHub - Ebooks](https://github.com/miguellgt/books/tree/master/microservices)
-* [Rafael Romão - Obtendo sucesso com Arquitetura de Microserviços](http://www.rafaelromao.com/2014/08/obtendo-sucesso-com-arquitetura-de.html)
-* [Pedro Mendes - Microsserviços, por Martin Fowler e James Lewis](http://www.pedromendes.com.br/2016/01/02/microservicos/)
-* [nessauepa - Tradução – Modelo de Maturidade de Richardson](http://www.nessauepa.com.br/blog/2013/07/traducao-modelo-de-maturidade-de-richardson/)
-* [REST API Tutorial - Richardson Maturity Model](http://restfulapi.net/richardson-maturity-model/)
-* [Pasqua Tecnologia - REST - Richardson Maturity Model](http://www.douglaspasqua.com/2016/03/12/richardson-maturity-model/)
-* [restcookbook.com - What is the Richardson Maturity Model?](http://restcookbook.com/Miscellaneous/richardsonmaturitymodel/)
-
 ### RabbitMQ
 
 * [Devmedia - Introdução ao AMQP com RabbitMQ](http://www.devmedia.com.br/introducao-ao-amqp-com-rabbitmq/33036)
@@ -190,6 +189,19 @@ Apenas alguns links interessantes:
 * [MundiPagg Blog - RabbitMQ Message Broker Desacoplando Workflows – Parte 1](https://blog.mundipagg.com/rabbitmq-message-broker-desacoplando-workflows-parte-1/)
 * [DClick - RabbitMQ, AMQP e Spring-AMQP](http://www.dclick.com.br/2011/01/20/rabbitmq-amqp-e-spring-amqp/)
 * [TecnoSpeed - Arquitetura de microserviços utilizando AMQP](http://tsdn.tecnospeed.com.br/blog-do-desenvolvimento-tecnospeed/post/arquitetura-de-microservicos-utilizando-amqp)
+* [Vitor Meriat - Mensageria e os Protocolos–Choose your poison](http://www.vitormeriat.com.br/2014/11/21/mensageria-e-os-protocoloschoose-your-poison/)
+* [LinuxHelp - How to install RabbitMQ in CentOS](https://www.linuxhelp.com/how-to-install-rabbitmq-in-centos/)
+
+## Microservices
+
+* [GitHub - Ebooks](https://github.com/miguellgt/books/tree/master/microservices)
+* [Rafael Romão - Obtendo sucesso com Arquitetura de Microserviços](http://www.rafaelromao.com/2014/08/obtendo-sucesso-com-arquitetura-de.html)
+* [Pedro Mendes - Microsserviços, por Martin Fowler e James Lewis](http://www.pedromendes.com.br/2016/01/02/microservicos/)
+* [nessauepa - Tradução – Modelo de Maturidade de Richardson](http://www.nessauepa.com.br/blog/2013/07/traducao-modelo-de-maturidade-de-richardson/)
+* [REST API Tutorial - Richardson Maturity Model](http://restfulapi.net/richardson-maturity-model/)
+* [Pasqua Tecnologia - REST - Richardson Maturity Model](http://www.douglaspasqua.com/2016/03/12/richardson-maturity-model/)
+* [restcookbook.com - What is the Richardson Maturity Model?](http://restcookbook.com/Miscellaneous/richardsonmaturitymodel/)
+* [Marcel Tessarini - Uma introdução a Microserviços usando Spring Boot e RabbitMQ](http://marceltessarini.com/introducao-microservico/)
 
 ## Padrões de Integração Corporativa (Enterprise Integration Patterns - EIP)
 

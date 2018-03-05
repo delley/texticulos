@@ -1,5 +1,6 @@
 # Links Interessantes
 Apenas alguns links interessantes:
+* [Apache HTTPD](#apache)
 * [APIs REST](#apis-rest)
 * [Atom](#atom)
 * [Bots](#bots)
@@ -17,6 +18,10 @@ Apenas alguns links interessantes:
 * [Referências Diversas](#referências-diversas)
 * [Repositórios do Git](#repositórios-do-git)
 * [Spring Framework](#spring-framework)
+
+## Apache
+
+* [ModSecurity Handbook - Getting Started](https://www.feistyduck.com/library/modsecurity-handbook-free/online/index.html)
 
 ## APIs REST
 
@@ -48,7 +53,13 @@ Apenas alguns links interessantes:
 * [Eduardo Pires: CQRS – O que é? Onde aplicar?](http://www.eduardopires.net.br/2016/07/cqrs-o-que-e-onde-aplicar/)
 * [InfoQ - Padrão de arquitetura CQRS: quando utilizar?](https://www.infoq.com/br/news/2011/11/cqrs)
 * [Revista PROGRAMAR - O que esconde o CQRS](https://www.revista-programar.info/artigos/o-que-esconde-o-cqrs/)
-
+* [Martin Fowler - CQRS](https://martinfowler.com/bliki/CQRS.html)
+* [Microservice Architecture - Pattern: Command Query Responsibility Segregation (CQRS)](http://microservices.io/patterns/data/cqrs.html)
+* [Enterprise Craftsmanship - Types of CQRS](http://enterprisecraftsmanship.com/2015/04/20/types-of-cqrs/)
+* [CQRS - Command/Query Responsibility Segregation](http://cqrs.nu/Faq/command-query-responsibility-segregation)
+* [Bouvet - A simple Todo application, a comparison on Traditional vs CQRS + ES architecture](https://www.bouvet.no/bouvet-deler/utbrudd/a-simple-todo-application-a-comparison-on-traditional-vs-cqrs-es-architecture)
+* [Robson Castilho - CQRS, interfaces, queries, ORMs….cuidado!](https://robsoncastilho.com.br/2016/05/05/cqrs-interfaces-queries-orms-cuidado/)
+* [Software em contexto: CQRS - Introdução](https://www.youtube.com/watch?v=3kbJeDYBx-w&t=3s)
 
 ## Docker
 

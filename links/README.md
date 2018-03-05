@@ -1,5 +1,7 @@
 # Links Interessantes
 Apenas alguns links interessantes:
+
+* [Arquitetura de Software](#arquitetura-software)
 * [Apache HTTPD](#apache)
 * [APIs REST](#apis-rest)
 * [Atom](#atom)
@@ -21,7 +23,11 @@ Apenas alguns links interessantes:
 * [Repositórios do Git](#repositórios-do-git)
 * [Spring Framework](#spring-framework)
 
-## Apache
+## Arquitetura de Software
+
+* [8th Light - The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+
+## Apache HTTPD
 
 ### ModSecurity
 

@@ -21,7 +21,14 @@ Apenas alguns links interessantes:
 
 ## Apache
 
+## ModSecurity
+
 * [ModSecurity Handbook - Getting Started](https://www.feistyduck.com/library/modsecurity-handbook-free/online/index.html)
+* [Getting Started with Apache ModSecurity on Debian and Ubuntu](https://samhobbs.co.uk/2016/03/getting-started-apache-modsecurity-debian-and-ubuntu)
+
+## Logs
+
+* [QBOX - How to Use Elasticsearch, Logstash, and Kibana to Manage Apache Logs](https://qbox.io/blog/elasticsearch-logstash-kibana-apache-logs)
 
 ## APIs REST
 
@@ -108,6 +115,7 @@ Apenas alguns links interessantes:
 
 * [Spark Tutoriais](https://sparktutorials.github.io/)
 * [Blog Caelum - Introdução aos microservices com Spark: retorno de dados dos correios](http://blog.caelum.com.br/introducao-aos-microservices-com-spark-retorno-de-dados-dos-correios/)
+* [Daniel DIas - Criando uma aplicação REST com SparkJava](https://danieldiasjava.wordpress.com/2018/02/14/criando-uma-aplicacao-rest-com-sparkjava/)
 
 ### Wildfly
 

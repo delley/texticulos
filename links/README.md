@@ -7,6 +7,8 @@ Apenas alguns links interessantes:
 * [CSS](#css)
 * [CQRS](#cqrs)
 * [Docker](#docker)
+* [Elastic Stack](#elastick-stack)
+* [Go lang](#golang)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
@@ -21,12 +23,12 @@ Apenas alguns links interessantes:
 
 ## Apache
 
-## ModSecurity
+### ModSecurity
 
 * [ModSecurity Handbook - Getting Started](https://www.feistyduck.com/library/modsecurity-handbook-free/online/index.html)
 * [Getting Started with Apache ModSecurity on Debian and Ubuntu](https://samhobbs.co.uk/2016/03/getting-started-apache-modsecurity-debian-and-ubuntu)
 
-## Logs
+### Logs
 
 * [QBOX - How to Use Elasticsearch, Logstash, and Kibana to Manage Apache Logs](https://qbox.io/blog/elasticsearch-logstash-kibana-apache-logs)
 
@@ -73,6 +75,19 @@ Apenas alguns links interessantes:
 * [DigitalOcean - Como Instalar e Usar o Docker no Ubuntu 16.04 ](https://www.digitalocean.com/community/tutorials/como-instalar-e-usar-o-docker-no-ubuntu-16-04-pt)
 * [ChurrOps - [Docker] P01 – Instalação no Linux, e nosso primeiro container “hello-wolrd”!](https://rdglinux.wordpress.com/2017/04/10/docker-p01-instalacao-no-linux-e-nosso-primeiro-container-hello-wolrd/)
 * [InfoQ - Java/JVM com Docker em produção: lições das trincheiras](https://www.infoq.com/br/presentations/java-jvm-com-docker-em-producao-licoes-das-trincheiras)
+* [Dockerizando sua Aplicação](https://medium.com/trainingcenter/dockerizando-sua-aplica%C3%A7%C3%A3o-e18969613f4b)
+
+## Elastic Stack
+
+* [Elastic Stack para Iniciantes](https://github.com/alefeans/elastic-stack)
+
+## Go lang
+
+* [Writing microservices with Go Micro](https://medium.com/microhq/writing-microservices-with-go-micro-b6e0880b8829)
+* [iMaster - Criando um microsserviço usando Go e Docker](https://imasters.com.br/desenvolvimento/devops/criando-um-microsservico-usando-go-e-docker/)
+* [BAEKE.INFO - Microservices on Kubernetes: a simple example in Go](https://blog.baeke.info/2017/03/20/microservices-on-kubernetes-a-simple-example-in-go/)
+* [Blog Docker - Docker + Golang = <3](https://blog.docker.com/2016/09/docker-golang/)
+* [Blazing Fast Microservice with Go and Lambda](https://blog.travelex.io/blazing-fast-microservice-with-go-and-lambda-d30d95290f28)
 
 ## Java
 
@@ -279,6 +294,7 @@ Apenas alguns links interessantes:
 ## Spring Framework
 
 * [Domine o Spring](https://domineospring.wordpress.com/)
+* [Domine o codigo - API RESTful com spring framework](https://threaddev.wordpress.com/2018/02/14/restful-com-spring-boot/)
 
 ### Spring Boot
 * [Spring Framework Guru - Configuring Spring Boot for PostgreSQL](https://springframework.guru/configuring-spring-boot-for-postgresql/)

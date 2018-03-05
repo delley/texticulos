@@ -116,6 +116,7 @@ Apenas alguns links interessantes:
 * [Spark Tutoriais](https://sparktutorials.github.io/)
 * [Blog Caelum - Introdução aos microservices com Spark: retorno de dados dos correios](http://blog.caelum.com.br/introducao-aos-microservices-com-spark-retorno-de-dados-dos-correios/)
 * [Daniel DIas - Criando uma aplicação REST com SparkJava](https://danieldiasjava.wordpress.com/2018/02/14/criando-uma-aplicacao-rest-com-sparkjava/)
+* [Senio Caires - Rest Estados e Cidades](https://github.com/seniocaires/estados-cidades)
 
 ### Wildfly
 
@@ -221,6 +222,9 @@ Apenas alguns links interessantes:
 * [Pasqua Tecnologia - REST - Richardson Maturity Model](http://www.douglaspasqua.com/2016/03/12/richardson-maturity-model/)
 * [restcookbook.com - What is the Richardson Maturity Model?](http://restcookbook.com/Miscellaneous/richardsonmaturitymodel/)
 * [Marcel Tessarini - Uma introdução a Microserviços usando Spring Boot e RabbitMQ](http://marceltessarini.com/introducao-microservico/)
+* [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
+* [Microservices SP - Java Projects](https://github.com/microservices-sp/java-parent)
+* [Microservices Radar](http://microservicesradar.com/)
 
 ## Padrões de Integração Corporativa (Enterprise Integration Patterns - EIP)
 

@@ -1,16 +1,16 @@
 # Links Interessantes
 Apenas alguns links interessantes:
 
-* [Arquitetura de Software](#arquitetura-software)
-* [Apache HTTPD](#apache)
+* [Arquitetura de Software](#arquitetura-de-software)
+* [Apache HTTPD](#apache-httpd)
 * [APIs REST](#apis-rest)
 * [Atom](#atom)
 * [Bots](#bots)
 * [CSS](#css)
 * [CQRS](#cqrs)
 * [Docker](#docker)
-* [Elastic Stack](#elastick-stack)
-* [Go lang](#golang)
+* [Elastic Stack](#elastic-stack)
+* [Go lang](#go-lang)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)

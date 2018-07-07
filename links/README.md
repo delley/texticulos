@@ -10,7 +10,7 @@ Apenas alguns links interessantes:
 * [CQRS](#cqrs)
 * [Docker](#docker)
 * [Elastic Stack](#elastic-stack)
-* [Go lang](#go-lang)
+* [Go lang](golang.md)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
@@ -86,14 +86,6 @@ Apenas alguns links interessantes:
 ## Elastic Stack
 
 * [Elastic Stack para Iniciantes](https://github.com/alefeans/elastic-stack)
-
-## Go lang
-
-* [Writing microservices with Go Micro](https://medium.com/microhq/writing-microservices-with-go-micro-b6e0880b8829)
-* [iMaster - Criando um microsserviço usando Go e Docker](https://imasters.com.br/desenvolvimento/devops/criando-um-microsservico-usando-go-e-docker/)
-* [BAEKE.INFO - Microservices on Kubernetes: a simple example in Go](https://blog.baeke.info/2017/03/20/microservices-on-kubernetes-a-simple-example-in-go/)
-* [Blog Docker - Docker + Golang = <3](https://blog.docker.com/2016/09/docker-golang/)
-* [Blazing Fast Microservice with Go and Lambda](https://blog.travelex.io/blazing-fast-microservice-with-go-and-lambda-d30d95290f28)
 
 ## Java
 

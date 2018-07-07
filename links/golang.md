@@ -25,4 +25,3 @@
 * [URL Shortener http://pirat.as](https://github.com/piratas/pirat.as)
 * [Ashley McNamara + Brian Ketelsen. Go best practices](https://www.youtube.com/watch?v=MzTcsI6tn-0)
 * [Golang UK Conference 2016 - Dave Cheney - SOLID Go Design](https://www.youtube.com/watch?v=zzAdEt3xZ1M)
-* []()

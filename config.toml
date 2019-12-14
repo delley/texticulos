@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://delley.github.io/"
 languageCode = "pt-br"
 title = "Textículos"
 theme = "hugo-coder"

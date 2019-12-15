@@ -1,7 +1,7 @@
 ---
 title: "Quem sou eu?"
 date: 2019-12-14T22:39:37-03:00
-draft: true
+draft: false
 ---
 
 Meu nome é Francisco Oliveira e moro em São Paulo, Brasil, com minha esposa e meus 3 filhos :metal:. Sou tecnólogo em Análise e Desenvolvimento de Sistemas pela [Fatec Ipiranga][fatec] e, atualmente, estou trabalhando como analista de sistema na [Iron Mountain Brasil][imb]. 

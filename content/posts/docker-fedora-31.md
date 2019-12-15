@@ -12,7 +12,7 @@ Recentemente resolvi dar uma atualizada no Sistema Operacional do meu notebook. 
 
 No dia 29 de outubro de 2019, o Fedora 31 foi lançado e confesso que fiquei muito entusiasmado em experimentá-lo. Então, resolvi fazer uma instalação limpa e reinstalar todos os softwares que utilizo no dia-a-dia.
 
-Um software que utilizo bastante é o [Docker](https://www.docker.com/), e é possível instalá-lo seguindo os passos fornecidos na [documentação](https://docs.docker.com/install/linux/docker-ce/fedora/). Porém, devido a alguns inconvenientes, os passos descritos aqui podem salvar o seu dia!!! :sunglasses:
+Um software que utilizo bastante é o [Docker](https://www.docker.com/), e é possível instalá-lo seguindo os passos fornecidos na [documentação](https://docs.docker.com/install/linux/docker-ce/fedora/). Porém, devido a alguns inconvenientes, os passos descritos aqui podem salvar o seu dia!!! :punch:
 
 ## cgroup v2
 
@@ -79,5 +79,5 @@ Após executar o comando, é necessário reiniciar o sistema.
 
 Bom... é isso!
 
-Espero que essas dicas tenham sido utéis e até a próxima!
+Espero que a dica tenha sido útil e até a próxima! :metal:
 

@@ -67,6 +67,6 @@ disqusShortname = "texticulos-1"
     weight = 1
     url  = "/posts/"
 [[menu.main]]
-    name = "About"
+    name = "Sobre"
     weight = 2
     url = "/about/"

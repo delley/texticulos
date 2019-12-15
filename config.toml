@@ -10,12 +10,18 @@ canonifyurls = true
 pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+enableEmoji = true
 
-#disqusShortname = "yourdiscussshortname"
+disqusShortname = "texticulos-1"
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
 
 [params]
     author = "Francisco Oliveira"
-    info = "System Analyst @ IronMountain and Golang enthusiast :="
+    info = "Analista de Sistemas @ Iron Mountain Brasil & Golang enthusiast :="
     description = "Pequenos textos sobre coisas diversas, em especial tecnologia"
     keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpg"
@@ -49,6 +55,11 @@ pygmentscodefencesguesssyntax = true
     icon = "fab fa-linkedin"
     weight = 3
     url = "https://www.linkedin.com/in/francisco-oliveira/"
+[[params.social]]
+    name = "RSS"
+    icon = "fas fa-rss-square"
+    weight = 4
+    url = "/index.xml"
 
 # Menu links
 [[menu.main]]

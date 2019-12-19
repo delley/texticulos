@@ -5,8 +5,12 @@ slug: docker-fedora-31
 tags: ["docker", "cgroup v2"]
 categories: ["ferramentas"]
 series: ["Docker"]
+images:
+- /images/docker-fedora-31.png
 draft: false
 ---
+
+{{< figure src="/images/docker-fedora-31.png" alt="Docker + Fedora 31" class="centered" >}}
 
 Recentemente resolvi dar uma atualizada no Sistema Operacional do meu notebook. Já fazia cerca de um ano que estava usando a versão 29 do Fedora.
 

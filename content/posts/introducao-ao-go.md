@@ -6,7 +6,10 @@ slug = "introducao-ao-go"
 tags = ["Go"]
 categories = ["programação"]
 series = ["Go"]
+images = ["/images/introducao-ao-go.png"]
 +++
+
+{{< figure src="/images/introducao-ao-go.png" alt="Intodução ao Go" class="centered" >}}
 
 O que é Go? Como o próprio site define: 
 

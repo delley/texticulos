@@ -1,7 +1,7 @@
 ---
 title: "Instalando e configurando o Docker CE no Fedora 31"
 date: 2019-12-15
-slug: docker-fedora-31
+slug: instalando-e-configurando-docker-fedora-31
 tags: ["docker", "cgroup v2"]
 categories: ["ferramentas"]
 series: ["Docker"]

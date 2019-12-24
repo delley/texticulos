@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2019-12-22
 title = "Minha Retrospectiva 2019 como organizador da comunidade Golang SP"
 description = "Textículo da minha retrospectiva do ano de 2019 como organizador da comunidade Golang SP"

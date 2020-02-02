@@ -49,7 +49,7 @@ De forma resumida:
 
 ### Ativação do Go Modules
 
-Para utilizar módulos no seu projeto, abra seu terminal e crie um novo diretório para o projeto chamado `go-modules` em qualquer lugar em seu computador0.
+Para utilizar módulos no seu projeto, abra seu terminal e crie um novo diretório para o projeto chamado `go-modules` em qualquer lugar em seu computador.
 
 > **Dica**: Crie o diretório do projeto em `$HOME/code`, mas você pode escolher um local diferente, se desejar.
 
@@ -66,7 +66,7 @@ O importante aqui é a singularidade. Para evitar possíveis conflitos de import
 Supondo que nossa URL seja `delley.github.io`, vamos iniciar os módulos da seguinte forma:
 
 ```bash
-$ cd $HOME/code/workshop
+$ cd $HOME/code/go-modules
 $ go mod init delley.github.io/go-modules
 go: creating new go.mod: module delley.github.io/go-modules
 ```

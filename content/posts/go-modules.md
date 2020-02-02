@@ -23,7 +23,7 @@ Em poucas palavras, *Go Modules* é a resposta oficial para lidarmos com o **Ger
 
 ## GOPATH, Configuração do projeto e ativação do Go Modules
 
-Embora seja possível criar o diretório do projeto em qualquer lugar no computador, se você planeja usar módulos para gerenciar dependências, é recomendado criar o diretório do projeto fora do diretório `GOPATH`.
+O lançamento da versão 1.13 possibilitou a criação do diretório do projeto em qualquer lugar no computador, inclusive no diretório `GOPATH`. Em versões pré-1.13 e pós-1.11, já era possível criar o diretório em qualquer lugar, porém o recomendado era criá-lo fora do diretório `GOPATH`.
 
 Esta é uma grande mudança em relação as versões anteriores do Go (pré-1.11), onde a prática recomendada era criar o diretório dos projetos dentro de uma pasta `src` sob o diretório `GOPATH`, conforme mostrado a seguir:
 
@@ -42,9 +42,14 @@ Nessa estrutura, os diretórios possuem as seguintes funções:
 - `pkg`: Guardar nossas bibliotecas e bibliotecas de terceiros;
 - `src`: Guardar todo o código dos nossos projetos.
 
+De forma resumida:
+- Versões pré-1.11: A recomendação é criar o diretório do projeto sob o diretório `GOPATH`;
+- Versões pós-1.11 e pré-1.13: A recomendção é criar o diretório do projeto fora do `GOPATH`;
+- Versão 1.13: O diretório do projeto pode ser criado em qualquer lugar no computador.
+
 ### Ativação do Go Modules
 
-Para utilizar módulos no seu projeto, abra seu terminal e crie um novo diretório para o projeto chamado `go-modules` em qualquer lugar em seu computador, desde que não esteja sob o diretório `GOPATH`.
+Para utilizar módulos no seu projeto, abra seu terminal e crie um novo diretório para o projeto chamado `go-modules` em qualquer lugar em seu computador0.
 
 > **Dica**: Crie o diretório do projeto em `$HOME/code`, mas você pode escolher um local diferente, se desejar.
 

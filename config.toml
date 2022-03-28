@@ -21,7 +21,7 @@ disqusShortname = "texticulos-1"
 
 [params]
     author = "Francisco Oliveira"
-    info = "Engenheiro de Software @ Banco Itaú & entusiasta Go :="
+    info = "Analista Desenvolvedor Especialista @ Engineering & entusiasta Go :="
     description = "Pequenos textos sobre coisas diversas, em especial tecnologia"
     keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpg"
@@ -71,3 +71,4 @@ disqusShortname = "texticulos-1"
     name = "Sobre"
     weight = 2
     url = "/about/"
+

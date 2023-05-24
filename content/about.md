@@ -4,11 +4,11 @@ date: 2019-12-14T22:39:37-03:00
 draft: false
 ---
 
-Meu nome é Francisco Oliveira e atualmente estou morando em Sigefredo Pacheco, Piaui, Brasil. Sou tecnólogo em Análise e Desenvolvimento de Sistemas pela [Fatec Ipiranga][fatec] e, trabalho como Analista Desenvolvedor Especialista na [Engineering][engineering]. 
+Meu nome é Francisco Oliveira e atualmente estou morando em Sigefredo Pacheco, Piaui, Brasil. Sou tecnólogo em Análise e Desenvolvimento de Sistemas pela [Fatec Ipiranga][fatec] e trabalho como Analista Desenvolvedor Especialista na [Engineering do Brasil][engineering]. 
 
-Tenho interesse em Desenvolvimento de Sistemas, Cloud Computing, Sistemas Distribuídos, APIs, Microsserviços, Serverless, Engenharia de Software, Integração de Sistemas, DevOps, IoT e Metodologias Ágeis. 
+Tenho interesse em desenvolvimento de sistemas, sistemas distribuídos, APIs, microsserviços, integração de sistemas, cloud computing, serverless, engenharia de software, DevOps e metodologias ágeis. 
 
-Desde Janeiro de 2019 tenho participado da organização da comunidade [Golang SP][golangsp], e confesso que organizar eventos tem sido uma experiência desafiadora. 
+Desde Janeiro de 2019 tenho participado da organização da comunidade [Golang SP][golangsp] e confesso que organizar eventos tem sido uma experiência desafiadora. 
 
 Gosto muito de ler e estudar nas horas livres. :see_no_evil:
 

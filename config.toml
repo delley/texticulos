@@ -1,8 +1,7 @@
 baseURL = "https://delley.github.io/"
-languageCode = "pt-br"
 title = "Textículos"
 theme = "hugo-coder"
-defaultcontentlanguage = "pt-br"
+defaultContentLanguage = "pt-br"
 
 paginate = 20
 canonifyurls = true
@@ -13,6 +12,12 @@ pygmentscodefencesguesssyntax = true
 enableEmoji = true
 
 disqusShortname = "texticulos-1"
+
+[languages]
+  [languages.pt-br]
+    languageName = "Português"
+    languageCode = "pt-BR"
+    weight = 1
 
 [taxonomies]
     category = "categories"
@@ -26,41 +31,39 @@ disqusShortname = "texticulos-1"
     keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpg"
     images = ["images/avatar.jpg"]
-
     favicon_32 = "images/favicon-32x32.png"
     favicon_16 = "images/favicon-16x16.png"
-
     footercontent = "Textículos: Pequenos textos."
-
     hidecredits = false
     hidecopyright = false
-
     rtl = false
-
     math = true
-    custom_css = ["css/custom.css"]
+    dateFormat = "02 de Jan de 2006"
 
 # Social links
 [[params.social]]
-    name = "Github"
-    icon = "fab fa-github fa-2x"
-    weight = 1
-    url = "https://github.com/delley/"
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/delley/"
+
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
-    weight = 2
-    url = "https://twitter.com/delley_fx/"
+name = "X"
+icon = "fa-brands fa-x-twitter fa-2x"
+weight = 2
+url = "https://x.com/delley_fx"
+
 [[params.social]]
-    name = "LinkedIn"
-    icon = "fab fa-linkedin"
-    weight = 3
-    url = "https://www.linkedin.com/in/francisco-oliveira/"
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 3
+url = "https://www.linkedin.com/in/francisco-oliveira/"
+
 [[params.social]]
-    name = "RSS"
-    icon = "fas fa-rss-square"
-    weight = 4
-    url = "/index.xml"
+name = "RSS"
+icon = "fa-solid fa-rss fa-2x"
+weight = 4
+url = "/index.xml"
 
 # Menu links
 [[menu.main]]

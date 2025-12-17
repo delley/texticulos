@@ -14,7 +14,7 @@ images = ["/images/enisa-2025.jpg"]
 
 O cenário de ameaças cibernéticas segue uma trajetória clara de amadurecimento e sofisticação. Ataques estão mais automatizados, melhor organizados e cada vez mais integrados às cadeias digitais globais. Essa é uma das principais conclusões do **ENISA Threat Landscape 2025**, relatório que analisa incidentes ocorridos entre julho de 2024 e junho de 2025.
 
-Para organizações que atuam em **infraestrutura digital, serviços de TIC e desenvolvimento de software**, o alerta é direto: o setor continua sendo um alvo estratégico, tanto para o cibercrime quanto para atividades de espionagem.
+Para organizações que atuam em **infraestrutura digital, serviços de tecnologia da informação e comunicação (TIC) e desenvolvimento de software**, o alerta é direto: o setor continua sendo um alvo estratégico, tanto para o cibercrime quanto para atividades de espionagem.
 
 Neste artigo, destaco os principais pontos do relatório e traduzo suas conclusões em recomendações práticas para o dia a dia técnico.
 
@@ -91,7 +91,7 @@ Diante desse cenário, a ENISA reforça que a defesa precisa ser **proativa, con
     
 * **Gestão eficiente de patches**: reduzir drasticamente o tempo entre divulgação e correção de vulnerabilidades.
     
-* **Endurecimento de sistemas**: configurações seguras, prevenção de execução e mecanismos comportamentais para conter malware desde o início.
+* **Hardening de sistemas**: configurações seguras, prevenção de execução e mecanismos comportamentais para conter malware desde o início.
 
 ### 2. Segurança no desenvolvimento e na cadeia de software
 

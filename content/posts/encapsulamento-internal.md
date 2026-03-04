@@ -7,10 +7,10 @@ slug = "encapsulamento-internal"
 tags = ["Go", "Internal", "Encapsulamento"]
 categories = ["Programação", "Go"]
 series = ["Go", "Go em Cordel"]
-images = ["/images/encapisulamento-internal.png"]
+images = ["/images/encapisulamento-internal.jpg"]
 +++
 
-{{< figure src="/images/encapisulamento-internal.png" alt="Encapsulamento usando internal" class="centered" >}}
+{{< figure src="/images/encapisulamento-internal.jpg" alt="Encapsulamento usando internal" class="centered" >}}
 
 > **Cordel técnico**
 >

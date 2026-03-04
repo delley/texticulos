@@ -407,4 +407,4 @@ No fim das contas, o `internal` não é apenas um diretório.
 
 ## Referências
 
-- [Go Blog - Internal Packages](https://go.dev/doc/go1.4#internalpackages)
+Go Blog. _Internal Packages_. Disponível em: [https://go.dev/doc/go1.4#internalpackages](https://go.dev/doc/go1.4#internalpackages). Acesso em: 21 fev. 2026.

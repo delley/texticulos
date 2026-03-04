@@ -4,7 +4,7 @@ date: 2019-12-14T22:39:37-03:00
 draft: false
 ---
 
-Meu nome é **Francisco Oliveira** e atualmente resido em **Fortaleza**, **Ceará**, **Brasil**. Sou tecnólogo em **Análise e Desenvolvimento de Sistemas** pela [**Fatec Ipiranga**][fatec] e atuo como **Analista Desenvolvedor Especialista** na [**Engineering do Brasil**][engineering].
+Meu nome é **Francisco Oliveira** e atualmente resido em **Quiterianópolis**, **Ceará**, **Brasil**. Sou tecnólogo em **Análise e Desenvolvimento de Sistemas** pela [**Fatec Ipiranga**][fatec] e atuo como **Analista Desenvolvedor Especialista** na [**Engineering do Brasil**][engineering].
 
 Tenho forte interesse em **desenvolvimento de sistemas distribuídos**, **APIs**, **microsserviços**, **integração de sistemas**, **cloud computing**, **arquiteturas serverless**, **engenharia de software**, **DevOps** e **metodologias ágeis**. Meu foco está em projetar e evoluir soluções escaláveis, resilientes e bem arquitetadas.
 

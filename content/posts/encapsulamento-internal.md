@@ -5,12 +5,11 @@ title = "Encapsulamento em nível de módulo: \"internal\" em versos de cordel!"
 description = "Entendendo o diretório `internal` em Go"
 slug = "encapsulamento-internal" 
 tags = ["Go", "Internal", "Encapsulamento"]
-categories = ["Programação", "Go"]
-series = ["Go", "Go em Cordel"]
-images = ["/images/encapisulamento-internal.jpg"]
+categories = ["Go", "Arquitetura de Software", "Engenharia de Software", "Go em Cordel"]
+images = ["/images/encapisulamento-internal.png"]
 +++
 
-{{< figure src="/images/encapisulamento-internal.jpg" alt="Encapsulamento usando internal" class="centered" >}}
+{{< figure src="/images/encapisulamento-internal.png" alt="Encapsulamento usando internal" class="centered" >}}
 
 > **Cordel técnico**
 >

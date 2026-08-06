@@ -4,9 +4,8 @@ date = 2025-12-17
 title = "Panorama das Ameaças Cibernéticas em 2025: Lições do Relatório da ENISA"
 description = "Textículo onde destaco os principais pontos do relatório da ENISA traduzo suas conclusões em recomendações práticas para o dia a dia técnico"
 slug = "enisa-2025" 
-tags = ["Segurança Digital, Ciberseguraça"]
-categories = ["Segurança Digital"]
-series = ["Segurança Digital"]
+tags = ["Segurança Digital", "Ciberseguraça"]
+categories = ["enisa", "Segurança Digital", "Ciberseguraça"]
 images = ["/images/enisa-2025.jpg"]
 +++
 

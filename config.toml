@@ -15,8 +15,8 @@ disqusShortname = "texticulos-1"
 
 [languages]
   [languages.pt-br]
-    languageName = "Português"
-    languageCode = "pt-BR"
+    label = "Português"
+    locale = "pt-BR"
     weight = 1
 
 [taxonomies]
@@ -75,3 +75,7 @@ url = "/index.xml"
     weight = 2
     url = "/about/"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

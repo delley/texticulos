@@ -6,10 +6,10 @@ description = "Um cordel técnico sobre como estruturar projetos Go com monólit
 tags = ["Go", "Arquitetura de Software", "Engenharia de Software", "Sistemas Distribuídos"]
 categories = ["Go", "Arquitetura de Software", "Engenharia de Software", "Go em Cordel"]
 slug = "como-estruturar-projeto-go-para-escalar"
-images = ["/images/estrurar-projeto-escalar.png"]
+images = ["/images/estrurar-projeto-escalar.jpg"]
 +++
 
-{{< figure src="/images/estrurar-projeto-escalar.png" alt="Encapsulamento usando internal" class="centered" >}}
+{{< figure src="/images/estrurar-projeto-escalar.jpg" alt="Encapsulamento usando internal" class="centered" >}}
 
 > **Cordel técnico**
 >
@@ -20,9 +20,7 @@ images = ["/images/estrurar-projeto-escalar.png"]
 > Sem fronteira e disciplina,  
 > Todo ajuste faz quebrar.
 
-Estruturar um projeto Go para escalar não significa criar dezenas de diretórios, aplicar todos os padrões arquiteturais disponíveis ou dividir prematuramente a aplicação em microserviços.
-
-Uma estrutura sustentável deve favorecer:
+Estruturar um projeto Go para escalar não significa criar dezenas de diretórios, aplicar todos os padrões arquiteturais disponíveis ou dividir prematuramente a aplicação em microserviços. Uma estrutura sustentável deve favorecer:
 
 - baixo acoplamento;
 - alta coesão;
@@ -48,9 +46,7 @@ Neste artigo, veremos como estruturar uma aplicação Go de modo que ela possa c
 > Sem que toda nova mudança  
 > Faça o sistema tombar.
 
-Quando falamos em escala, normalmente pensamos em tráfego, quantidade de usuários ou volume de processamento.
-
-Entretanto, uma aplicação também precisa escalar em outras dimensões:
+Quando falamos em escala, normalmente pensamos em tráfego, quantidade de usuários ou volume de processamento. Entretanto, uma aplicação também precisa escalar em outras dimensões:
 
 - quantidade de funcionalidades;
 - número de integrações;
@@ -84,9 +80,7 @@ Portanto, escalar não é apenas uma questão de infraestrutura. É também uma 
 > Primeiro firme as fronteiras,  
 > Depois pense em distribuição.
 
-Um monólito modular mantém a aplicação em uma única unidade de implantação, mas divide o código em módulos de negócio claramente definidos.
-
-Uma estrutura inicial pode ser:
+Um monólito modular mantém a aplicação em uma única unidade de implantação, mas divide o código em módulos de negócio claramente definidos. Uma estrutura inicial pode ser:
 
 ```text
 my-project/
@@ -128,9 +122,7 @@ internal/
 └── models/
 ```
 
-Embora pareça organizada, ela espalha uma única funcionalidade por vários diretórios.
-
-Para modificar o fluxo de pedidos, por exemplo, provavelmente será necessário navegar por:
+Embora pareça organizada, ela espalha uma única funcionalidade por vários diretórios. Para modificar o fluxo de pedidos, por exemplo, provavelmente será necessário navegar por:
 
 ```text
 handlers/order.go
@@ -150,9 +142,7 @@ internal/
 └── inventory/
 ```
 
-Dessa forma, uma alteração no domínio de pedidos permanece concentrada dentro de `internal/order`.
-
-Essa abordagem reduz a carga cognitiva e melhora a capacidade de compreender o impacto de uma mudança.
+Dessa forma, uma alteração no domínio de pedidos permanece concentrada dentro de `internal/order`. Essa abordagem reduz a carga cognitiva e melhora a capacidade de compreender o impacto de uma mudança.
 
 ---
 
@@ -264,11 +254,7 @@ O `main` deve funcionar como a porta de entrada, não como o lugar onde toda a a
 > A própria linguagem ajuda  
 > A manter a separação.
 
-O diretório `internal` possui comportamento especial em Go.
-
-Pacotes armazenados dentro dele não podem ser importados livremente por módulos externos que estejam fora da árvore permitida.
-
-Isso permite proteger detalhes internos da aplicação.
+O diretório `internal` possui comportamento especial em Go. Pacotes armazenados dentro dele não podem ser importados livremente por módulos externos que estejam fora da árvore permitida. Isso permite proteger detalhes internos da aplicação.
 
 Um módulo simples pode começar assim:
 
@@ -282,9 +268,7 @@ internal/order/
 └── postgres.go
 ```
 
-Essa estrutura plana é adequada enquanto o módulo ainda possui tamanho reduzido.
-
-Não é necessário começar imediatamente com:
+Essa estrutura plana é adequada enquanto o módulo ainda possui tamanho reduzido. Não é necessário começar imediatamente com:
 
 ```text
 domain/
@@ -310,9 +294,7 @@ internal/order/
     └── handler.go
 ```
 
-A estrutura deve acompanhar a complexidade existente.
-
-Não crie diretórios para uma complexidade que talvez nunca apareça.
+A estrutura deve acompanhar a complexidade existente. Não crie diretórios para uma complexidade que talvez nunca apareça.
 
 ---
 
@@ -327,9 +309,7 @@ Não crie diretórios para uma complexidade que talvez nunca apareça.
 > Quem procura uma mudança  
 > Não precisa peregrinar.
 
-Organizar por domínio significa agrupar o código de acordo com as capacidades de negócio.
-
-Uma aplicação de comércio eletrônico poderia ser organizada assim:
+Organizar por domínio significa agrupar o código de acordo com as capacidades de negócio. Uma aplicação de comércio eletrônico poderia ser organizada assim:
 
 ```text
 internal/
@@ -366,9 +346,7 @@ internal/
 └── util/
 ```
 
-informa quais padrões técnicos foram utilizados.
-
-Uma estrutura como:
+informa quais padrões técnicos foram utilizados. Já uma estrutura como:
 
 ```text
 internal/
@@ -538,9 +516,7 @@ func NewService(
 }
 ```
 
-As implementações concretas podem utilizar PostgreSQL, Kafka, UUID ou o relógio do sistema.
-
-Em testes, essas dependências podem ser substituídas por implementações controladas.
+As implementações concretas podem utilizar PostgreSQL, Kafka, UUID ou o relógio do sistema. Em testes, essas dependências podem ser substituídas por implementações controladas.
 
 ```text
 Repository
@@ -549,9 +525,7 @@ Repository
 └── stub de teste
 ```
 
-Isso não significa criar interfaces para todas as estruturas.
-
-Interfaces são especialmente úteis nas fronteiras com:
+Isso não significa criar interfaces para todas as estruturas. Interfaces são especialmente úteis nas fronteiras com:
 
 - banco de dados;
 - mensageria;
@@ -559,12 +533,9 @@ Interfaces são especialmente úteis nas fronteiras com:
 - cache;
 - armazenamento;
 - geração de identificadores;
-- relógio;
-- sistemas de pagamento.
+- relógio.
 
-Uma interface deve representar uma necessidade concreta do consumidor.
-
-Não deve existir apenas para satisfazer uma regra arquitetural.
+Uma interface deve representar uma necessidade concreta do consumidor. Não deve existir apenas para satisfazer uma regra arquitetural.
 
 ---
 
@@ -762,9 +733,7 @@ Essas decisões pertencem ao domínio ou aos casos de uso.
 > Dependência bem visível  
 > Melhora a compreensão.
 
-A aplicação precisa de um lugar onde as dependências concretas são criadas e conectadas.
-
-Esse ponto é conhecido como **composition root**.
+A aplicação precisa de um lugar onde as dependências concretas são criadas e conectadas. Esse ponto é conhecido como **composition root**.
 
 ```go
 func New(config Config) (*Application, error) {
@@ -862,9 +831,7 @@ Esse diretório pode conter:
 - mecanismos de retry;
 - circuit breakers.
 
-Entretanto, `platform` não deve se tornar um diretório genérico para código sem classificação.
-
-Evite transformá-lo em algo semelhante a:
+Entretanto, `platform` não deve se tornar um diretório genérico para código sem classificação. Evite transformá-lo em algo semelhante a:
 
 ```text
 internal/platform/
@@ -874,9 +841,7 @@ internal/platform/
 └── miscellaneous/
 ```
 
-Pacotes com nomes genéricos normalmente escondem responsabilidades pouco definidas.
-
-A infraestrutura compartilhada deve fornecer capacidades técnicas, não regras de negócio.
+Pacotes com nomes genéricos normalmente escondem responsabilidades pouco definidas. A infraestrutura compartilhada deve fornecer capacidades técnicas, não regras de negócio.
 
 ---
 
@@ -891,9 +856,7 @@ A infraestrutura compartilhada deve fornecer capacidades técnicas, não regras 
 > Para outra assumir o trabalho,  
 > O dado precisa ficar.
 
-Aplicações preparadas para escalar horizontalmente devem evitar depender de estado local.
-
-Não armazene informações críticas em:
+Aplicações preparadas para escalar horizontalmente devem evitar depender de estado local. Não armazene informações críticas em:
 
 - variáveis globais;
 - mapas em memória;
@@ -914,9 +877,7 @@ Utilize componentes apropriados:
 | Métricas | Prometheus |
 | Traces | OpenTelemetry |
 
-A aplicação deve conseguir executar várias instâncias sem depender de qual delas processou a requisição anterior.
-
-Isso facilita:
+A aplicação deve conseguir executar várias instâncias sem depender de qual delas processou a requisição anterior. Isso facilita:
 
 - balanceamento de carga;
 - reinício de containers;
@@ -937,9 +898,7 @@ Isso facilita:
 > Idempotência é o recurso  
 > Que impede o erro de insistir.
 
-Em sistemas distribuídos, requisições e mensagens podem ser processadas mais de uma vez.
-
-Isso pode acontecer por:
+Em sistemas distribuídos, requisições e mensagens podem ser processadas mais de uma vez. Isso pode acontecer por:
 
 - retry do cliente;
 - timeout;
@@ -1014,11 +973,7 @@ if !repository.Exists(email) {
 }
 ```
 
-Duas instâncias podem executar a verificação simultaneamente e concluir que o registro não existe.
-
-Em seguida, ambas tentam criá-lo.
-
-Esse problema deve ser tratado com mecanismos fornecidos pelo armazenamento:
+Duas instâncias podem executar a verificação simultaneamente e concluir que o registro não existe. Em seguida, ambas tentam criá-lo. Esse problema deve ser tratado com mecanismos fornecidos pelo armazenamento:
 
 - constraints únicas;
 - transações;
@@ -1080,18 +1035,16 @@ Uma solução é o padrão **Transactional Outbox**:
 │                           │
 │ 1. salva a entidade       │
 │ 2. registra o evento      │
-└──────────────┬────────────┘
-               │
-               ▼
-       publicador da outbox
-               │
-               ▼
-             broker
+└─────────────┬─────────────┘
+              │
+              ▼
+     publicador da outbox
+              │
+              ▼
+            broker
 ```
 
-A entidade e o evento são persistidos na mesma transação.
-
-Depois, um processo separado publica os eventos registrados na tabela de outbox.
+A entidade e o evento são persistidos na mesma transação. Em seguida, um processo separado publica os eventos registrados na tabela de outbox.
 
 Essa abordagem reduz o risco de inconsistência entre banco de dados e mensageria.
 
@@ -1166,9 +1119,7 @@ default:
 }
 ```
 
-O cliente não deve receber detalhes internos, stack traces ou informações de infraestrutura.
-
-Esses dados pertencem aos logs e às ferramentas de observabilidade.
+O cliente não deve receber detalhes internos, stack traces ou informações de infraestrutura. Esses dados pertencem aos logs e às ferramentas de observabilidade.
 
 ---
 
@@ -1183,9 +1134,7 @@ Esses dados pertencem aos logs e às ferramentas de observabilidade.
 > O sistema perde tempo  
 > Tentando se recuperar.
 
-Evite acessar `os.Getenv` diretamente em vários pacotes.
-
-Prefira uma estrutura tipada:
+Evite acessar `os.Getenv` diretamente em vários pacotes. Prefira uma estrutura tipada:
 
 ```go
 type Config struct {
@@ -1224,9 +1173,7 @@ func LoadConfig() (Config, error) {
 }
 ```
 
-A aplicação deve falhar cedo quando uma configuração obrigatória estiver ausente.
-
-Esse comportamento é preferível a descobrir a falha somente durante o processamento de uma requisição.
+A aplicação deve falhar cedo quando uma configuração obrigatória estiver ausente. Esse comportamento é preferível a descobrir a falha somente durante o processamento de uma requisição.
 
 ---
 
@@ -1241,9 +1188,7 @@ Esse comportamento é preferível a descobrir a falha somente durante o processa
 > Encerrar com segurança  
 > Também faz parte de escalar.
 
-Em ambientes com containers e orquestradores, a aplicação recebe sinais de encerramento.
-
-Ela deve responder a esses sinais de forma controlada.
+Em ambientes com containers e orquestradores, a aplicação recebe sinais de encerramento. Ela deve responder a esses sinais de forma controlada.
 
 ```go
 func (a *Application) Run(
@@ -1281,9 +1226,7 @@ Durante o graceful shutdown, a aplicação deve:
 6. descarregar buffers;
 7. finalizar dentro de um prazo.
 
-Toda goroutine de longa duração deve possuir alguma estratégia de cancelamento.
-
-Uma goroutine sem controle de ciclo de vida pode causar:
+Toda goroutine de longa duração deve possuir alguma estratégia de cancelamento. Uma goroutine sem controle de ciclo de vida pode causar:
 
 - vazamento de recursos;
 - deadlocks;
@@ -1304,9 +1247,7 @@ Uma goroutine sem controle de ciclo de vida pode causar:
 > Log, métrica e rastreamento  
 > Fazem o caminho mais seguro.
 
-Uma aplicação deve fornecer sinais suficientes para entender seu comportamento em produção.
-
-O conjunto mínimo inclui:
+Uma aplicação deve fornecer sinais suficientes para entender seu comportamento em produção. O conjunto mínimo inclui:
 
 - logs estruturados;
 - métricas;
@@ -1348,9 +1289,7 @@ A estrutura permite:
 - investigar incidentes;
 - criar alertas.
 
-Também é necessário evitar métricas com alta cardinalidade.
-
-Não utilize identificadores únicos como labels:
+Também é necessário evitar métricas com alta cardinalidade. Não utilize identificadores únicos como labels:
 
 ```text
 order_id
@@ -1451,9 +1390,7 @@ Esses testes podem verificar:
 
 ### Testes de contrato
 
-Validam se consumidores e provedores respeitam contratos esperados.
-
-São especialmente úteis em:
+Validam se consumidores e provedores respeitam contratos esperados. São especialmente úteis em:
 
 - APIs HTTP;
 - eventos;
@@ -1463,9 +1400,7 @@ São especialmente úteis em:
 
 ### Testes ponta a ponta
 
-Validam os fluxos críticos do sistema completo.
-
-Devem ser usados com moderação, pois costumam ser:
+Validam os fluxos críticos do sistema completo. Devem ser usados com moderação, pois costumam ser:
 
 - lentos;
 - frágeis;
@@ -1594,9 +1529,7 @@ Go favorece:
 - nomes diretos;
 - pouca indireção.
 
-Camadas devem ser adicionadas quando solucionam um problema real.
-
-Não devem existir apenas porque um diagrama arquitetural diz que deveriam existir.
+Camadas devem ser adicionadas quando solucionam um problema real. Não devem existir apenas porque um diagrama arquitetural diz que deveriam existir.
 
 ---
 
@@ -1780,27 +1713,12 @@ Se cada resposta exige percorrer dezenas de diretórios, a estrutura provavelmen
 > Do domínio no seu centro  
 > E explícita dependência em ação.
 
-Não existe uma única estrutura correta para todos os projetos Go.
+Não existe uma única estrutura correta para todos os projetos Go. Uma aplicação pequena não precisa da mesma organização de um sistema com dezenas de módulos, múltiplos executáveis e integrações distribuídas. Por isso, a estrutura deve evoluir conforme surgem necessidades reais.
 
-Uma aplicação pequena não precisa da mesma organização de um sistema com dezenas de módulos, múltiplos executáveis e integrações distribuídas.
+Comece com um monólito modular, organize o código pelas capacidades do negócio, mantenha o domínio independente da infraestrutura, use interfaces pequenas no lado consumidor e centralize a composição das dependências.
 
-Por isso, a estrutura deve evoluir conforme surgem necessidades reais.
+Projete a aplicação para ser stateless e adicione idempotência, graceful shutdown e observabilidade desde cedo. Extraia microserviços somente quando houver razões técnicas e organizacionais concretas.
 
-Comece com um monólito modular.
-
-Organize o código pelas capacidades do negócio.
-
-Mantenha o domínio independente da infraestrutura.
-
-Use interfaces pequenas no lado consumidor.
-
-Centralize a composição das dependências.
-
-Projete a aplicação para ser stateless.
-
-Adicione idempotência, graceful shutdown e observabilidade desde cedo.
-
-Extraia microserviços somente quando houver razões técnicas e organizacionais concretas.
 
 > **Cordel técnico**
 >

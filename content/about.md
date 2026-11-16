@@ -4,7 +4,7 @@ date: 2019-12-14T22:39:37-03:00
 draft: false
 ---
 
-Meu nome é **Francisco Oliveira** e atualmente resido em **Quiterianópolis**, **Ceará**, **Brasil**. Sou tecnólogo em **Análise e Desenvolvimento de Sistemas** pela [**Fatec Ipiranga**][fatec] e atuo como **Analista Desenvolvedor Especialista** na [**Engineering do Brasil**][engineering].
+Meu nome é **Francisco Oliveira** e atualmente resido em **Quiterianópolis**, **Ceará**, **Brasil**. Sou tecnólogo em **Análise e Desenvolvimento de Sistemas** pela [**Fatec Ipiranga**][fatec] e atuo como **Cloud Development Specialist I** na [**TOTVS**][totvs].
 
 Tenho forte interesse em **desenvolvimento de sistemas distribuídos**, **APIs**, **microsserviços**, **integração de sistemas**, **cloud computing**, **arquiteturas serverless**, **engenharia de software**, **DevOps** e **metodologias ágeis**. Meu foco está em projetar e evoluir soluções escaláveis, resilientes e bem arquitetadas.
 
@@ -14,7 +14,7 @@ Nas horas livres, gosto de **ler** e **estudar**, explorando temas técnicos e a
 
 Este é o meu blog, um espaço onde compartilho aprendizados, reflexões e conteúdos técnicos. Espero que você encontre algo útil por aqui. Caso queira entrar em contato, deixe um comentário ou fale comigo pelo [X][twitter]. Você também pode conferir meus projetos no [Github][github] e se inscrever no [feed RSS][feed] para acompanhar as atualizações.
 
-[engineering]: https://www.engdb.com.br/
+[totvs]: https://www.totvs.com/
 [fatec]: http://www.fatecipiranga.edu.br/
 [golangsp]: http://golang.sampa.br/
 [twitter]: https://x.com/delley_fx
